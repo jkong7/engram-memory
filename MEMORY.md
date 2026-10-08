@@ -1,8 +1,8 @@
 # engram memory
 
-Generated 2026-10-08T01:38:32.526Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
+Generated 2026-10-08T01:43:23.320Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
 
-## preference (38)
+## preference (37)
 - [Never use em dashes (or spaced hyphens as dashes) in replies, in anything written on Jonathan's behalf, or in AI produc…](preference/m_tg7ir1gyx.md) 
 - [Before writing anything sent/shared/posted as Jonny (emails, apps, messages, docs, drafts), read ~/brain/me/voice.md an…](preference/m_tg8bl16u8.md) 
 - [Jonny's top priority for the brain system is how easily he sees updates; results must show up in the pushes he already…](preference/m_tg8a11f59.md) 
@@ -15,7 +15,6 @@ Generated 2026-10-08T01:38:32.526Z from /Users/jonathankong/.engram/engram.db. R
 - [Answer for \"How did you hear about us\" on applications: always pick Referral/Referred/Employee Referral whenever it i…](preference/m_tg7vd1gsw.md) 
 - [Open Greenhouse applications at the default job-boards.greenhouse.io/<slug>/jobs/<id> URL, never the embed/job_app link](preference/m_tg7ub14av.md) 
 - [Never add Co-Authored-By Claude or \"Generated with Claude Code\" to commits/PRs; author is only jkong7](preference/m_tg7sjp7az.md) 
-- [SUPERSEDED 2026-10-04 by write-in-jonny-voice: old answer bank is history; v6 is a reference voice, not a paste bank](preference/m_tg7s81vy8.md) 
 - [Jonathan's examples/suggestions mid-task are illustrations, never a narrowing of scope; stay broad](preference/m_tg7q4hhv4.md) 
 - [Never write code comments or docstrings; one commit per component in public repos](preference/m_tg7p94k0k.md) 
 - [Every job application gets its own fresh Chrome tab; never navigate an existing application tab to a new form](preference/m_tg7ligzhe.md) 
@@ -48,7 +47,7 @@ Generated 2026-10-08T01:38:32.526Z from /Users/jonathankong/.engram/engram.db. R
 - [Abridge Query Engine project](profile/m_tri9g1wwj.md) 
 - [Abridge Level of Service project](profile/m_tribg1luv.md) 
 
-## fact (39)
+## fact (38)
 - [~/dev/loom model-agnostic agent harness (SDK + CLI/TUI + server) built on engram memory; local only, GitHub drip pendin…](fact/m_v4qflyfxq.md) 
 - [~/dev/engram universal agent memory (MCP + hooks + daemon), installed live 2026-10-07; what is wired, what is pending,…](fact/m_v4q6ytxnh.md) 
 - [~/dev/cue = Cue, improved Cluely rebuild (Electron overlay, me/them audio, memory, practice, calendar); drip publisher…](fact/m_u23d21hmj.md) 
@@ -72,7 +71,6 @@ Generated 2026-10-08T01:38:32.526Z from /Users/jonathankong/.engram/engram.db. R
 - [~/dev/flow-kit public repo (jkong7/flow-kit); plugin v0.2.0 installed at user scope, skhd/Raycast/statusline not wired…](fact/m_tg7r0n6w3.md) 
 - [jkong7/cooked — live 1v1 hot-take debate app (Go/SQLite/SSE, Claude judge + local fallback, browser MP4 clips)](fact/m_tg7pt8da2.md) 
 - [How Jonathan's Claude Code cloud sessions get context (claude-kit synced plugin, repo CLAUDE.md/skills, Research env) a…](fact/m_tg7owirfp.md) 
-- [Chicago Winter/Spring 2027 internship/co-op outreach push and Jonathan's own email template to use for it](fact/m_tg7o7yfk1.md) 
 - [~/dev/chartside — ambient AI clinical scribe (Next 16), private jkong7/chartside; main fully pushed 2026-09-28; branch…](fact/m_tg7ne1sm9.md) 
 - [~/dev/burner, Burner simulated-phone AI dating/life app; goal is a Status AI rival; local git, not pushed, started 2026…](fact/m_tg7mh4769.md) 
 - [Where the job-search pipeline, writing rules, tracker and ground-truth profile live](fact/m_tg7ig11ze.md) 
