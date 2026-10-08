@@ -8,7 +8,7 @@ importance: 6
 trust: "agent"
 status: "active"
 created: "2026-10-08T01:33:37.583Z"
-updated: "2026-10-08T01:33:37.583Z"
+updated: "2026-10-08T02:04:01.880Z"
 source: "claude-code"
 ---
 
@@ -22,6 +22,6 @@ Ingests OTel GenAI, OpenInference, OpenLLMetry, Vercel AI, OpenAI Agents, Claude
 
 Finding worth telling Jonny: his Claude Code sends ~168-213 tool definitions (~66-119k tokens) on every call, so a haiku bug-fix task cost $0.24-0.34.
 
-Git: 33 commits authored only Jonathan Kong, no Claude mentions (verified). Private repo github.com/jkong7/blackbox. Jonny ran .git/publisher/START.sh himself on 2026-10-07 20:18: launchd agent com.jkong7.blackbox-publisher pushes one SHA at a time with a random 600 to 5400s wait, log .git/publisher/publish.log, stops after 33/33 (expected around 2026-10-09). Stop: launchctl bootout gui/$(id -u)/com.jkong7.blackbox-publisher.
+Git: 33 commits authored only Jonathan Kong, no Claude mentions (verified). Private repo github.com/jkong7/blackbox. Jonny ran .git/publisher/START.sh himself on 2026-10-07 20:18: launchd agent com.jkong7.blackbox-publisher pushes one SHA at a time with a random 600 to 5400s wait, log .git/publisher/publish.log, stops after the last queued commit. On 2026-10-07 20:47 it was fixed: zsh turned "$sha:refs/heads/main" into a bad refspec (the :r modifier), so nothing had pushed. The refspec is now "${sha}:..." and the queue was rebuilt to 37 commits (4 Codex/integration commits added). Stop: launchctl bootout gui/$(id -u)/com.jkong7.blackbox-publisher.
 
 Related: [[code-style-no-comments]], [[git-no-claude-attribution]], [[vigil-repo]]

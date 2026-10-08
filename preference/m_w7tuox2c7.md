@@ -1,5 +1,5 @@
 ---
-id: "m_tg7vd1gsw"
+id: "m_w7tuox2c7"
 kind: "preference"
 scope: "global"
 title: "Answer for \\\"How did you hear about us\\\" on applications: always pick Referral/Referred/Employee Referral whenever it i…"
@@ -7,8 +7,8 @@ tags: ["claude-memory","how-did-you-hear-answer"]
 importance: 8
 trust: "agent"
 status: "active"
-created: "2026-10-08T00:46:35.717Z"
-updated: "2026-10-08T00:46:35.717Z"
+created: "2026-10-08T02:04:02.831Z"
+updated: "2026-10-08T02:04:02.831Z"
 source: "claude-code"
 ---
 
