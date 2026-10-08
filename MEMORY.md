@@ -1,10 +1,9 @@
 # engram memory
 
-Generated 2026-10-08T02:09:47.013Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
+Generated 2026-10-08T02:45:28.364Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
 
-## preference (76)
+## preference (88)
 - [Never use em dashes (or spaced hyphens as dashes) in replies, in anything written on Jonathan's behalf, or in AI produc…](preference/m_tg7ir1gyx.md) 
-- [Answer for \"How did you hear about us\" on applications: always pick Referral/Referred/Employee Referral whenever it i…](preference/m_w7tuox2c7.md) 
 - [Never mention MathWorks](preference/m_w4qkl1xdm.md) 
 - [Before writing anything sent/shared/posted as Jonny (emails, apps, messages, docs, drafts), read ~/brain/me/voice.md an…](preference/m_tg8bl16u8.md) 
 - [Jonny's top priority for the brain system is how easily he sees updates; results must show up in the pushes he already…](preference/m_tg8a11f59.md) 
@@ -13,7 +12,6 @@ Generated 2026-10-08T02:09:47.013Z from /Users/jonathankong/.engram/engram.db. R
 - [Never send emails or LinkedIn messages on Jonathan's behalf; draft only, he sends](preference/m_tg7zz1qbu.md) 
 - [Never schedule Jonathan's work/OA/study blocks in the morning; afternoon (12pm+) or later only](preference/m_tg7zneh3e.md) 
 - [Jonny wants judgment, not literal over-application of each instruction; don't swing specs to extremes](preference/m_tg7y58j7d.md) 
-- [Standing routine since 2026-10-04 - fill Instinct's blocked application packets from ~/dev/jobsearch/handoffs/ in Jonny…](preference/m_tg7wx3d5n.md) 
 - [Open Greenhouse applications at the default job-boards.greenhouse.io/<slug>/jobs/<id> URL, never the embed/job_app link](preference/m_tg7ub14av.md) 
 - [Never add Co-Authored-By Claude or \"Generated with Claude Code\" to commits/PRs; author is only jkong7](preference/m_tg7sjp7az.md) 
 - [Jonathan's examples/suggestions mid-task are illustrations, never a narrowing of scope; stay broad](preference/m_tg7q4hhv4.md) 
@@ -24,12 +22,20 @@ Generated 2026-10-08T02:09:47.013Z from /Users/jonathankong/.engram/engram.db. R
 - [Automate applications and outreach up to the final step, never submit or send](preference/m_tg7jt18sc.md) 
 - [Jonathan adopts stack technologies and MCP servers as concrete needs arise, not preemptively](preference/m_tg7jkmrou.md) 
 - [Jonathan positions as a broad software engineer, not a health-tech or CDI specialist](preference/m_tg7j53dtq.md) 
-- [How did you hear: referral only without referrer details](preference/m_w5yj1lxx3.md) 
+- [Burner photos must look like real phone photos](preference/m_wnpmv9onc.md) `burner`
+- [Additional voice avoid patterns](preference/m_wmz1013vs.md) 
+- [Instinct handoff routine (review-ready, no submit)](preference/m_wku46omib.md) 
+- [Brain updates delivered via iMessage through Instinct](preference/m_wkiaw16wj.md) 
 - [Target locations: all US cities, with priorities](preference/m_w4qj714fu.md) 
 - [Referral outreach targets alumni, not current students](preference/m_tqpze7eh2.md) 
 - [Chicago outreach email template](preference/m_tqpx81ef6.md) 
 - [Agents do not create accounts or enter passwords on third-party services](preference/m_tor2q1vpf.md) 
 - [Outreach messages lead with the Abridge hook and cite specific work after research](preference/m_toqzi17zu.md) 
+- [Burner image prompts stay lean](preference/m_wnpl2ifsi.md) `burner`
+- [Top-15 runs include roles without dossiers](preference/m_wlfonqiaq.md) 
+- [Notes stay inside Raycast, no extra app](preference/m_wjvmc1b5z.md) 
+- [Brain should learn everything about him](preference/m_wipzd1n2d.md) 
+- [How did you hear: referral vs campus](preference/m_wfp3t1n8u.md) 
 - [Deliver study explanations in chat](preference/m_wf4hq1s8m.md) 
 - [Keep browser tab count low](preference/m_wdenx1l4h.md) 
 - [Deep research and coordinated parallel work](preference/m_waosq1ma8.md) 
@@ -46,6 +52,8 @@ Generated 2026-10-08T02:09:47.013Z from /Users/jonathankong/.engram/engram.db. R
 - [Jonathan completes assessments himself](preference/m_tri7r1oz2.md) 
 - [Build outreach drafts by hand in Gmail Compose](preference/m_tqpyf11ep.md) 
 - [Commit code in small chunks](preference/m_tpmuxi8wz.md) 
+- [Plain-English job search summaries](preference/m_wkie7hc85.md) 
+- [Notification volume](preference/m_wibx11dm7.md) 
 - [Concise answers with concrete examples](preference/m_wf4ki1egz.md) 
 - [Overnight autonomous build runs](preference/m_wel9ty54g.md) 
 - [Explaining algorithms to Jonny](preference/m_wbrzg1ea0.md) 
@@ -71,6 +79,10 @@ Generated 2026-10-08T02:09:47.013Z from /Users/jonathankong/.engram/engram.db. R
 - [Visible state for caffeinate toggle](preference/m_vzjpq1khm.md) 
 - [New GitHub repos should be private](preference/m_tuj6riif0.md) 
 - [Finish evidence gathering before drafting deliverables](preference/m_tp4961wv0.md) 
+- [Burner full-body shots vary footwear](preference/m_wnpoa1gyn.md) `burner`
+- [Writing rules load on demand](preference/m_wmz3cq3xy.md) 
+- [Apps start only when needed](preference/m_wkihb12px.md) 
+- [Concise explanations](preference/m_wj8xtamtz.md) 
 - [Comments allowed in practice solutions](preference/m_wbs1c8kf3.md) 
 - [Rank OAs by importance and due date](preference/m_w9z1x1bwp.md) 
 - [Course picks need workload data](preference/m_w8xjzmf30.md) 
@@ -89,8 +101,38 @@ Generated 2026-10-08T02:09:47.013Z from /Users/jonathankong/.engram/engram.db. R
 - [Middle name](profile/m_w4qpk17to.md) 
 - [Abridge Level of Service project](profile/m_tribg1luv.md) 
 
-## fact (78)
+## decision (23)
+- [Builder limited to lab repo](decision/m_wibs811vt.md) 
+- [Chartside stripped to core slice](decision/m_wg1ex16q7.md) `chartside`
+- [Two resume tracks by graduation path](decision/m_vxktc1in1.md) 
+- [Applied to 28 companies on 2026-10-01](decision/m_wguo64a97.md) 
+- [Applications submitted 2026-09-30](decision/m_wdemld3k1.md) 
+- [Wave 2 features approved for live deploy](decision/m_wel621o1i.md) `chartside`
+- [Fall 2026 Theme and elective plan](decision/m_w8xh2f1s0.md) 
+- [Queue ranks big-name employer programs higher](decision/m_w5yt816mo.md) `jobsearch`
+- [Graduate in Fall, walk in June 2027](decision/m_w1omdfmvu.md) 
+- [Chose sidebet, cooked and Campus Markets to build](decision/m_tpmywxndo.md) 
+- [Declined review tabs from 2026-10-05 run](decision/m_wm1n612l8.md) 
+- [Vault moved to iCloud for iPhone sync](decision/m_wjvqglola.md) 
+- [Skipped PMG OA](decision/m_wckx51gfq.md) 
+- [Persona hosting moved to Google Cloud Run](decision/m_w9hawl9su.md) `persona-onboarding`
+- [Chose school therapy Medicaid paperwork niche](decision/m_w7q9uhsy2.md) 
+- [Commure Scribe AI over Fullstack role](decision/m_w5760ye6y.md) 
+- [Withdrew from low-interest assessments](decision/m_tri6d1ufp.md) 
+- [Replit removed from application ledger](decision/m_whsik1cyd.md) 
+- [Persona Gmail access is read only](decision/m_w9hge6zl5.md) `persona-onboarding`
+- [Handshake not used as a job source](decision/m_w4qy53kgx.md) 
+- [flow-kit daily routines are skills, /push stays a command](decision/m_w3wbfkuev.md) 
+- [Resume built locally with Tectonic](decision/m_vxkqz1dtu.md) 
+- [Jonny asked for Apple Notes to be organized into folders](decision/m_trtk61c5a.md) 
+
+## fact (104)
 - [ENVR_POL 390 cancelled by school](fact/m_wav3vruj1.md) 
+- [Burner AI routing](fact/m_wnpge1lok.md) `burner`
+- [Burner repo and local run](fact/m_wnpdz1wrc.md) `burner`
+- [MasterControl application submitted](fact/m_wm1kvdfix.md) 
+- [⌘4 job-application run](fact/m_wlfma12i6.md) 
+- [Chartside core edition location and switch](fact/m_wg1he1ytd.md) `chartside`
 - [Recruiting pipeline status (Sep 2026)](fact/m_tqq3w1ger.md) 
 - [Chartside live site runs wave2](fact/m_wekx21ode.md) `chartside`
 - [~/dev/loom model-agnostic agent harness (SDK + CLI/TUI + server) built on engram memory; local only, GitHub drip pendin…](fact/m_v4qflyfxq.md) 
@@ -107,7 +149,6 @@ Generated 2026-10-08T02:09:47.013Z from /Users/jonathankong/.engram/engram.db. R
 - [~/dev/sessionside, \"Say it once. Sign a note Medicaid will accept.\" School SLP/OT/PT notes to Medicaid claims; privat…](fact/m_tg888xso1.md) 
 - [The agreed second-brain/JARVIS architecture (2026-10-02), its layers, where each lives, build order and what is done](fact/m_tg87c3p6p.md) 
 - [Sep 2026 shift from cold apps to NU alumni referrals + NU faculty warm intros; where drafts live and who was contacted](fact/m_tg8631rs5.md) 
-- [Jonathan's Claude Code launch shortcuts live in ~/.local/bin, bound to Cmd+1/2/3 by skhd (not Raycast)](fact/m_tg84fotpf.md) 
 - [Persona (yourpersona.com) take-home at ~/dev/persona-onboarding; conversational onboarding by text + voice call; stack,…](fact/m_tg83j1xhi.md) 
 - [Jonny's everyday notes = separate Obsidian vault \"Notes\" in iCloud (~/notes, private repo jkong7/notes), Apple Notes…](fact/m_tg81r1g2m.md) 
 - [Jonathan's Northwestern (McCormick BSCS) plan — finish BS Fall 2026 part-time, not enrolled winter/spring, walk June 20…](fact/m_tg80up44x.md) 
@@ -121,6 +162,20 @@ Generated 2026-10-08T02:09:47.013Z from /Users/jonathankong/.engram/engram.db. R
 - [~/dev/chartside — ambient AI clinical scribe (Next 16), private jkong7/chartside; main fully pushed 2026-09-28; branch…](fact/m_tg7ne1sm9.md) 
 - [~/dev/burner, Burner simulated-phone AI dating/life app; goal is a Status AI rival; local git, not pushed, started 2026…](fact/m_tg7mh4769.md) 
 - [Where the job-search pipeline, writing rules, tracker and ground-truth profile live](fact/m_tg7ig11ze.md) 
+- [Triage and Builder run as claude.ai routines](fact/m_wmqbjpudf.md) 
+- [Claude launch shortcuts (skhd)](fact/m_wlfj2bf48.md) 
+- [persona-onboarding kept always-on until Persona replies](fact/m_wkil1vwp4.md) 
+- [Instinct is read-only on Todoist](fact/m_wkicsabf6.md) 
+- [brain vault lives in iCloud](fact/m_wjvsapf51.md) 
+- [Notes vault backup repo](fact/m_wjvp4xn1s.md) 
+- [My Notes Raycast extension](fact/m_wjvns103w.md) 
+- [honey image generation provider](fact/m_wj2pm1f4f.md) `honey`
+- [Claude Code loads profile at startup](fact/m_wiq0p1e6e.md) 
+- [Brain capture pipeline](fact/m_wibvt16tt.md) 
+- [jkong7/lab and Builder routine](fact/m_wibtr1dod.md) 
+- [Verse Medical rejection](fact/m_whsjl83pg.md) 
+- [McKinsey QuantumBlack application submitted](fact/m_whdxu1ieb.md) 
+- [Interest in legacy-process startup ideas](fact/m_wgbtu12bs.md) 
 - [Wells Fargo and Visa online assessments](fact/m_wdeju1li7.md) 
 - [Replit interview status](fact/m_wdehwxhhu.md) 
 - [Replit software engineer screen (2026-09-29)](fact/m_wbrqzbwo5.md) 
@@ -142,6 +197,12 @@ Generated 2026-10-08T02:09:47.013Z from /Users/jonathankong/.engram/engram.db. R
 - [Persona (yourpersona.com) is distinct from earlier Persona application](fact/m_triej88rq.md) 
 - [Unposted faceless doom videos F1-F5 in ~/dev/doom-videos](fact/m_tq1eu3q6e.md) 
 - [Northwestern school email is used for recruiter and cold outreach](fact/m_tor17o9lx.md) 
+- [Burner Claude key expiry](fact/m_wnpjd1q6r.md) `burner`
+- [Built In hides employer apply links](fact/m_wm1ratybm.md) 
+- [Local LLM intelligence layer goal](fact/m_wkimslcm7.md) 
+- [lean cleanup tool in flow-kit](fact/m_wkijg1d49.md) 
+- [honey portrait cost and caching](fact/m_wj2rg1856.md) `honey`
+- [Vault index and change log](fact/m_wibzarnkl.md) 
 - [Sleeper IR move timing](fact/m_w799a1yol.md) 
 - [HackerRank OA on 2026-09-29](fact/m_wc2w51dy4.md) 
 - [Gmail test users for Persona app](fact/m_w9hdt7tcd.md) `persona-onboarding`
@@ -161,6 +222,8 @@ Generated 2026-10-08T02:09:47.013Z from /Users/jonathankong/.engram/engram.db. R
 - [Apple Notes folder layout after 2026-09-26 reorganization](fact/m_trtmj12t1.md) 
 - [reels-research project outputs and purpose](fact/m_tp4b1p5al.md) 
 - [LinkedIn Premium renewal around 2026-10-21](fact/m_tor4o18by.md) 
+- [Replit rejection](fact/m_whe1r1hnx.md) 
+- [Chrome access to Lever sites](fact/m_wgusp1xmm.md) 
 - [InternDock Pro subscription](fact/m_wdet61nu2.md) 
 - [Amanda Diao tested the Persona onboarding app](fact/m_wcdbd1wzj.md) 
 - [Heidi Entry Program is not engineering](fact/m_w579vcspj.md) 
@@ -169,27 +232,11 @@ Generated 2026-10-08T02:09:47.013Z from /Users/jonathankong/.engram/engram.db. R
 - [Verse Medical dev database seed scale](fact/m_tu68ee859.md) 
 - [Jonathan's Sleeper league settings](fact/m_tteeq1ghm.md) 
 
-## decision (17)
-- [Two resume tracks by graduation path](decision/m_vxktc1in1.md) 
-- [Wave 2 features approved for live deploy](decision/m_wel621o1i.md) `chartside`
-- [Applications sent 2026-09-30](decision/m_wdemld3k1.md) 
-- [Fall 2026 Theme and elective plan](decision/m_w8xh2f1s0.md) 
-- [Queue ranks big-name employer programs higher](decision/m_w5yt816mo.md) `jobsearch`
-- [Graduate in Fall, walk in June 2027](decision/m_w1omdfmvu.md) 
-- [Chose sidebet, cooked and Campus Markets to build](decision/m_tpmywxndo.md) 
-- [Skipped PMG OA](decision/m_wckx51gfq.md) 
-- [Persona hosting moved to Google Cloud Run](decision/m_w9hawl9su.md) `persona-onboarding`
-- [Chose school therapy Medicaid paperwork niche](decision/m_w7q9uhsy2.md) 
-- [Commure Scribe AI over Fullstack role](decision/m_w5760ye6y.md) 
-- [Withdrew from low-interest assessments](decision/m_tri6d1ufp.md) 
-- [Persona Gmail access is read only](decision/m_w9hge6zl5.md) `persona-onboarding`
-- [Handshake not used as a job source](decision/m_w4qy53kgx.md) 
-- [flow-kit daily routines are skills, /push stays a command](decision/m_w3wbfkuev.md) 
-- [Resume built locally with Tectonic](decision/m_vxkqz1dtu.md) 
-- [Jonny asked for Apple Notes to be organized into folders](decision/m_trtk61c5a.md) 
-
-## procedure (17)
+## procedure (23)
+- [Verifying Greenhouse and Ashby form answers register before Submit](procedure/m_wgurm13k5.md) 
 - [Rolling back Chartside Cloud Run to the previous revision](procedure/m_wel0ga1uq.md) `chartside`
+- [Give zsh Full Disk Access for iCloud sync jobs](procedure/m_wjvv12mom.md) 
+- [Filling job application forms in Chrome background tabs](procedure/m_wfp5ji58o.md) 
 - [Chartside GCP permission grant script](procedure/m_wel3rlqq3.md) `chartside`
 - [Filling job application forms in Chrome](procedure/m_wdeyn1g29.md) 
 - [Filling custom dropdowns on application forms in Chrome](procedure/m_w5yp1cc4d.md) 
@@ -198,16 +245,19 @@ Generated 2026-10-08T02:09:47.013Z from /Users/jonathankong/.engram/engram.db. R
 - [Reading and moving Apple Notes with AppleScript](procedure/m_trtiqk6x0.md) 
 - [Collecting Instagram Reels data from the logged-in Chrome session](procedure/m_tp45ua67a.md) 
 - [Filling Greenhouse and Ashby application forms in Chrome (dropdowns and warm-up)](procedure/m_toqx2x76k.md) 
+- [Test the capture-to-PR chain by hand](procedure/m_wmqf0b4eq.md) 
+- [Resume upload on SmartRecruiters forms](procedure/m_wm1p8lq5j.md) 
 - [Launching parallel builder agents in worktrees](procedure/m_wel8kze8d.md) 
 - [Making a new Raycast app appear in Raycast](procedure/m_vzjx01qv0.md) 
 - [Restarting the engram daemon](procedure/m_vz034hvit.md) 
 - [Reconnecting Claude in Chrome for browser application runs](procedure/m_tsbsa1j7k.md) 
+- [Driving Raycast UI from scripts](procedure/m_wjvwoe5wi.md) 
 - [Remove Claude co-author trailers from repo history](procedure/m_w3wgc1n6k.md) 
 - [Bulk unsubscribe via Gmail Manage subscriptions](procedure/m_w2dlm14cq.md) 
 - [Build LaTeX resume with Tectonic](procedure/m_w03e11fqf.md) `resume`
 - [Gitignore Go binary names without hiding cmd dirs](procedure/m_tpn1tqy1y.md) 
 
-## reference (28)
+## reference (33)
 - [Application Ledger and master board](reference/m_w4r3x9jkt.md) 
 - [Application Ledger](reference/m_w39idc72j.md) 
 - [YouTube virality research page (claude.ai artifact)](reference/m_tq1gy10ln.md) 
@@ -224,6 +274,11 @@ Generated 2026-10-08T02:09:47.013Z from /Users/jonathankong/.engram/engram.db. R
 - [Chartside full project history file](reference/m_tt677k465.md) `chartside`
 - [Job application ledger artifact and total counter](reference/m_tqq1y44ne.md) 
 - [vigil local workbench dashboard](reference/m_tpn0g1mw3.md) 
+- [Burner research notes](reference/m_wnppx7fnk.md) 
+- [Public resume repo jkong7/resume-public](reference/m_whe0sbah8.md) 
+- [Consumer AI interfaces report](reference/m_wgbrbuk1s.md) 
+- [Legacy workflow startup report](reference/m_wgbot1590.md) 
+- [Chartside live Cloud Run URL](reference/m_wg1jzt588.md) `chartside`
 - [Tier 1 roles artifact](reference/m_wdere1glp.md) 
 - [InternDock software internship shortlist](reference/m_wdepvru23.md) 
 - [Open roles at untouched companies (2026-09-30 research)](reference/m_wctxv1ugm.md) 
@@ -237,7 +292,25 @@ Generated 2026-10-08T02:09:47.013Z from /Users/jonathankong/.engram/engram.db. R
 - [Jonathan's LinkedIn handle](reference/m_tricp1pks.md) 
 - [Verse interview practice setup](reference/m_wf4ow4tzf.md) 
 
-## episode (64)
+## episode (82)
+- [Burner build and playtest loop](episode/m_wnpt61y4s.md) 
+- [Standing writing voice rules](episode/m_wmz6k14cv.md) 
+- [Capture-to-build chain verified](episode/m_wmqhsm4xc.md) 
+- [Job search apply batch run (2026-10-04 to 2026-10-05)](episode/m_wm1vkvsst.md) `jobsearch`
+- [⌘2 fix and the ⌘4 application run](episode/m_wlfrrqq3a.md) 
+- [Weekly review and handoff routine](episode/m_wku8k16kq.md) 
+- [Lean Mac cleanup and iMessage routing for brain updates](episode/m_wkiqkctdp.md) 
+- [Apple Notes migration to Raycast and Obsidian vault](episode/m_wjw0b197c.md) 
+- [How code runs locally and when deployed](episode/m_wj8zuuc6u.md) 
+- [honey.ai Candy AI clone](episode/m_wj2uh1oqy.md) 
+- [Brain learns about Jonny](episode/m_wiq2d4fpe.md) 
+- [Building the Jarvis-style second brain](episode/m_wic1ylval.md) 
+- [Removing Replit from the ledger](episode/m_whsl61wll.md) 
+- [Batch applications and McKinsey, 2026-10-01 to 2026-10-02](episode/m_whe5bgv3w.md) 
+- [Fresh-company application wave](episode/m_wguvs1yxs.md) 
+- [Outdated processes and new interfaces research](episode/m_wgbvabz16.md) 
+- [Chartside core slice](episode/m_wg1nn1qza.md) 
+- [Top internship picks, applications and ledger updates](episode/m_wfp7w6sj5.md) 
 - [Verse Medical technical interview prep](episode/m_wf4tnb823.md) 
 - [Chartside overnight Wave 2 and live replacement](episode/m_welcq1wjr.md) 
 - [Replit recruiter call prep](episode/m_wdtkj1qly.md) 
