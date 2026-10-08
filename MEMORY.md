@@ -1,6 +1,6 @@
 # engram memory
 
-Generated 2026-10-08T04:36:30.435Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
+Generated 2026-10-08T04:46:35.570Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
 
 ## preference (108)
 - [Never use em dashes (or spaced hyphens as dashes) in replies, in anything written on Jonathan's behalf, or in AI produc…](preference/m_tg7ir1gyx.md) 
@@ -122,10 +122,11 @@ Generated 2026-10-08T04:36:30.435Z from /Users/jonathankong/.engram/engram.db. R
 - [Abridge Level of Service project](profile/m_tribg1luv.md) 
 - [Learning agent architecture from first principles](profile/m_y563fad7h.md) 
 
-## decision (34)
+## decision (35)
 - [Builder limited to lab repo](decision/m_wibs811vt.md) 
 - [Chartside stripped to core slice](decision/m_wg1ex16q7.md) `chartside`
 - [Two resume tracks by graduation path](decision/m_vxktc1in1.md) 
+- [MAS graduation moved to Fall 2026](decision/m_1rngj1dn4.md) 
 - [prism on private GitHub repo](decision/m_0me3y1qyj.md) 
 - [Engram memory snapshots go to a private repo](decision/m_y8k8719p9.md) 
 - [engram published publicly](decision/m_y77npz4b7.md) 
@@ -158,8 +159,9 @@ Generated 2026-10-08T04:36:30.435Z from /Users/jonathankong/.engram/engram.db. R
 - [Resume built locally with Tectonic](decision/m_vxkqz1dtu.md) 
 - [Jonny asked for Apple Notes to be organized into folders](decision/m_trtk61c5a.md) 
 
-## fact (141)
+## fact (142)
 - [ENVR_POL 390 cancelled by school](fact/m_wav3vruj1.md) 
+- [Jonathan's Northwestern (McCormick BSCS) plan — finish BS Fall 2026 part-time, not enrolled winter/spring, walk June 20…](fact/m_tg80up44x.md) 
 - [~/dev/prism live visualizer for loom + engram + blackbox runs (launchd com.prism.server on 127.0.0.1:7360), built 2026-…](fact/m_zufnk13oz.md) 
 - [~/dev/cc = public jkong7/CC- CS 322 compiler (L1/L2/L3/IR C++ on PEGTL); being extended 10/7 with drip publisher](fact/m_xp426k3nv.md) 
 - [Burner LLM routing](fact/m_03upd5be4.md) `burner`
@@ -195,7 +197,6 @@ Generated 2026-10-08T04:36:30.435Z from /Users/jonathankong/.engram/engram.db. R
 - [Sep 2026 shift from cold apps to NU alumni referrals + NU faculty warm intros; where drafts live and who was contacted](fact/m_tg8631rs5.md) 
 - [Persona (yourpersona.com) take-home at ~/dev/persona-onboarding; conversational onboarding by text + voice call; stack,…](fact/m_tg83j1xhi.md) 
 - [Jonny's everyday notes = separate Obsidian vault \"Notes\" in iCloud (~/notes, private repo jkong7/notes), Apple Notes…](fact/m_tg81r1g2m.md) 
-- [Jonathan's Northwestern (McCormick BSCS) plan — finish BS Fall 2026 part-time, not enrolled winter/spring, walk June 20…](fact/m_tg80up44x.md) 
 - [Mac folder layout after 2026-09-21 cleanup (~/dev for all code, ~/projects symlink, screenshots, Documents/Career) and…](fact/m_tg7z1pdc3.md) 
 - [Where the job search automation lives and the decisions behind it (routines, ledger, packet spec, ATS creds)](fact/m_tg7xs1ml2.md) 
 - [~/dev/honey, Candy AI interface clone (companion chat), local only, built 2026-10-03](fact/m_tg7ut2hcl.md) 
@@ -205,6 +206,7 @@ Generated 2026-10-08T04:36:30.435Z from /Users/jonathankong/.engram/engram.db. R
 - [How Jonathan's Claude Code cloud sessions get context (claude-kit synced plugin, repo CLAUDE.md/skills, Research env) a…](fact/m_tg7owirfp.md) 
 - [~/dev/chartside — ambient AI clinical scribe (Next 16), private jkong7/chartside; main fully pushed 2026-09-28; branch…](fact/m_tg7ne1sm9.md) 
 - [Where the job-search pipeline, writing rules, tracker and ground-truth profile live](fact/m_tg7ig11ze.md) 
+- [ENVR_POL 354 enrollment](fact/m_1rneu14fs.md) 
 - [Burner web push notifications](fact/m_03uw9dd5k.md) `burner`
 - [Burner multi-user mode](fact/m_03uugnys3.md) `burner`
 - [Burner GitHub repo](fact/m_03ur2n7se.md) `burner`
@@ -380,7 +382,8 @@ Generated 2026-10-08T04:36:30.435Z from /Users/jonathankong/.engram/engram.db. R
 - [blackbox private repo and publisher log](reference/m_y3hujxakm.md) 
 - [Verse interview practice setup](reference/m_wf4ow4tzf.md) 
 
-## episode (108)
+## episode (109)
+- [ENVR_POL 354 catch-up and graduation term](episode/m_1rnilwfi1.md) 
 - [Lantern build, GitHub sync, and prism split](episode/m_0meeabakh.md) 
 - [Burner consumer-readiness round and GitHub push](episode/m_03v3c14zv.md) `burner`
 - [Built prism visualizer](episode/m_zyrh8okon.md) `prism`
