@@ -1,8 +1,8 @@
 # engram memory
 
-Generated 2026-10-08T06:54:18.653Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
+Generated 2026-10-08T07:04:23.769Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
 
-## preference (108)
+## preference (109)
 - [Never use em dashes (or spaced hyphens as dashes) in replies, in anything written on Jonathan's behalf, or in AI produc…](preference/m_tg7ir1gyx.md) 
 - [Ashby forms - selections can look filled but not commit; Jonathan hit \"required\" prompts on Submit for fields already…](preference/m_tg7kx1p6h.md) 
 - [Standing routine since 2026-10-04 - fill Instinct's blocked application packets from ~/dev/jobsearch/handoffs/ in Jonny…](preference/m_xp4mzf34n.md) 
@@ -96,6 +96,7 @@ Generated 2026-10-08T06:54:18.653Z from /Users/jonathankong/.engram/engram.db. R
 - [Visible state for caffeinate toggle](preference/m_vzjpq1khm.md) 
 - [New GitHub repos should be private](preference/m_tuj6riif0.md) 
 - [Finish evidence gathering before drafting deliverables](preference/m_tp4961wv0.md) 
+- [Playthroughs on Jonny's own account](preference/m_6llymajqj.md) `burner`
 - [Fill personal application prompts](preference/m_y4x1n878c.md) 
 - [Relatives, vendor and competitor questions answered No](preference/m_y1njln752.md) 
 - [Verify applications by receipt email](preference/m_xzv5d1xcl.md) 
@@ -382,7 +383,8 @@ Generated 2026-10-08T06:54:18.653Z from /Users/jonathankong/.engram/engram.db. R
 - [blackbox private repo and publisher log](reference/m_y3hujxakm.md) 
 - [Verse interview practice setup](reference/m_wf4ow4tzf.md) 
 
-## episode (109)
+## episode (110)
+- [Burner Jonny account playthrough](episode/m_6lm1u1c8y.md) `burner`
 - [ENVR_POL 354 catch-up and graduation term](episode/m_1rnilwfi1.md) 
 - [Lantern build, GitHub sync, and prism split](episode/m_0meeabakh.md) 
 - [Burner consumer-readiness round and GitHub push](episode/m_03v3c14zv.md) `burner`
