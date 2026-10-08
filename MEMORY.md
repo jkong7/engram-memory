@@ -1,6 +1,6 @@
 # engram memory
 
-Generated 2026-10-08T20:26:16.212Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
+Generated 2026-10-08T20:36:21.344Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
 
 ## preference (114)
 - [Never use em dashes (or spaced hyphens as dashes) in replies, in anything written on Jonathan's behalf, or in AI produc…](preference/m_tg7ir1gyx.md) 
@@ -167,7 +167,7 @@ Generated 2026-10-08T20:26:16.212Z from /Users/jonathankong/.engram/engram.db. R
 - [Resume built locally with Tectonic](decision/m_vxkqz1dtu.md) 
 - [Jonny asked for Apple Notes to be organized into folders](decision/m_trtk61c5a.md) 
 
-## fact (141)
+## fact (142)
 - [ENVR_POL 390 cancelled by school](fact/m_wav3vruj1.md) 
 - [~/dev/burner, Burner simulated-phone AI dating/life app; goal is a Status AI rival; private GitHub jkong7/burner (pushe…](fact/m_tg7mh4769.md) 
 - [Jonathan's Northwestern (McCormick BSCS) plan — finish BS Fall 2026 part-time, not enrolled winter/spring, walk June 20…](fact/m_tg80up44x.md) 
@@ -258,6 +258,7 @@ Generated 2026-10-08T20:26:16.212Z from /Users/jonathankong/.engram/engram.db. R
 - [Persona (yourpersona.com) is distinct from earlier Persona application](fact/m_triej88rq.md) 
 - [Unposted faceless doom videos F1-F5 in ~/dev/doom-videos](fact/m_tq1eu3q6e.md) 
 - [Northwestern school email is used for recruiter and cold outreach](fact/m_tor17o9lx.md) 
+- [Anthropic credit top-up for Persona](fact/m_zroc51ns7.md) 
 - [Burner What they remember sheet](fact/m_03uy08fkk.md) `burner`
 - [prism model access limited to Ollama](fact/m_zyrbx9mpr.md) 
 - [Pushback publisher needs Mac awake](fact/m_zy6kw1ghm.md) 
@@ -392,7 +393,9 @@ Generated 2026-10-08T20:26:16.212Z from /Users/jonathankong/.engram/engram.db. R
 - [blackbox private repo and publisher log](reference/m_y3hujxakm.md) 
 - [Verse interview practice setup](reference/m_wf4ow4tzf.md) 
 
-## episode (113)
+## episode (115)
+- [Persona onboarding launch and invoice](episode/m_zrogfqbe5.md) 
+- [AI stocks market research](episode/m_zmd3e1kyr.md) 
 - [Apply run and batches on 2026-10-08](episode/m_xn3uw10h7.md) `jobsearch`
 - [Burner billing restored and cost research](episode/m_vuk0c1czc.md) 
 - [Burner retention builds and GCP billing](episode/m_qpxb0bioq.md) `burner`
