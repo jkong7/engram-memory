@@ -1,6 +1,6 @@
 # engram memory
 
-Generated 2026-10-08T05:06:45.822Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
+Generated 2026-10-08T05:16:50.960Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
 
 ## preference (108)
 - [Never use em dashes (or spaced hyphens as dashes) in replies, in anything written on Jonathan's behalf, or in AI produc…](preference/m_tg7ir1gyx.md) 
@@ -161,13 +161,13 @@ Generated 2026-10-08T05:06:45.822Z from /Users/jonathankong/.engram/engram.db. R
 
 ## fact (142)
 - [ENVR_POL 390 cancelled by school](fact/m_wav3vruj1.md) 
+- [~/dev/burner, Burner simulated-phone AI dating/life app; goal is a Status AI rival; private GitHub jkong7/burner (pushe…](fact/m_tg7mh4769.md) 
 - [Jonathan's Northwestern (McCormick BSCS) plan — finish BS Fall 2026 part-time, not enrolled winter/spring, walk June 20…](fact/m_tg80up44x.md) 
 - [~/dev/prism live visualizer for loom + engram + blackbox runs (launchd com.prism.server on 127.0.0.1:7360), built 2026-…](fact/m_zufnk13oz.md) 
 - [~/dev/cc = public jkong7/CC- CS 322 compiler (L1/L2/L3/IR C++ on PEGTL); being extended 10/7 with drip publisher](fact/m_xp426k3nv.md) 
 - [Burner LLM routing](fact/m_03upd5be4.md) `burner`
 - [~/dev/pushback, Pine (19pine.ai) rebuild, AI that phones companies to lower bills, cancel and get refunds; 29 local com…](fact/m_yrr9733zg.md) 
 - [~/dev/lantern live Claude Code visualizer (port 7350); launcher, data sources, what is pending](fact/m_zuf3a1w70.md) 
-- [~/dev/burner, Burner simulated-phone AI dating/life app; goal is a Status AI rival; private GitHub jkong7/burner (pushe…](fact/m_tg7mh4769.md) 
 - [~/dev/engram universal agent memory (MCP + hooks + daemon), installed live 2026-10-07; what is wired, what is pending,…](fact/m_yrqazkbrr.md) 
 - [engram repo and status](fact/m_y77m0uoxs.md) 
 - [BlackRock and Valkyrie assessments](fact/m_y4x5w2y4u.md) 
