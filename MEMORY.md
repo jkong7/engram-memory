@@ -1,6 +1,6 @@
 # engram memory
 
-Generated 2026-10-08T18:35:23.485Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
+Generated 2026-10-08T18:45:24.952Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
 
 ## preference (110)
 - [Never apply to a company Jonathan has already applied to, even for a different role](preference/m_tg82m1ojc.md) 
@@ -339,7 +339,7 @@ Generated 2026-10-08T18:35:23.485Z from /Users/jonathankong/.engram/engram.db. R
 - [Build LaTeX resume with Tectonic](procedure/m_w03e11fqf.md) `resume`
 - [Gitignore Go binary names without hiding cmd dirs](procedure/m_tpn1tqy1y.md) 
 
-## reference (43)
+## reference (45)
 - [Application Ledger and master board](reference/m_w4r3x9jkt.md) 
 - [Application Ledger](reference/m_w39idc72j.md) 
 - [YouTube virality research page (claude.ai artifact)](reference/m_tq1gy10ln.md) 
@@ -362,6 +362,8 @@ Generated 2026-10-08T18:35:23.485Z from /Users/jonathankong/.engram/engram.db. R
 - [Chartside full project history file](reference/m_tt677k465.md) `chartside`
 - [Job application ledger artifact and total counter](reference/m_tqq1y44ne.md) 
 - [vigil local workbench dashboard](reference/m_tpn0g1mw3.md) 
+- [GCP billing console for persona-onboarding-jk](reference/m_vujwj10zm.md) 
+- [AI companion inference cost report](reference/m_vuju2i7sg.md) 
 - [Companion market research notes](reference/m_03v011g0x.md) `burner`
 - [loom publisher and repo](reference/m_y41ql9lwc.md) 
 - [Vaulted ATS login lookup](reference/m_y11huqs8f.md) 
@@ -384,7 +386,8 @@ Generated 2026-10-08T18:35:23.485Z from /Users/jonathankong/.engram/engram.db. R
 - [blackbox private repo and publisher log](reference/m_y3hujxakm.md) 
 - [Verse interview practice setup](reference/m_wf4ow4tzf.md) 
 
-## episode (111)
+## episode (112)
+- [Burner billing restored and cost research](episode/m_vuk0c1czc.md) 
 - [Burner retention builds and GCP billing](episode/m_qpxb0bioq.md) `burner`
 - [Burner playthrough handoff to dev-d5](episode/m_6lm1u1c8y.md) `burner`
 - [ENVR_POL 354 catch-up and graduation term](episode/m_1rnilwfi1.md) 
