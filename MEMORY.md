@@ -1,10 +1,10 @@
 # engram memory
 
-Generated 2026-10-08T18:55:30.126Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
+Generated 2026-10-08T19:05:35.161Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
 
 ## preference (110)
-- [Never apply to a company Jonathan has already applied to, even for a different role](preference/m_tg82m1ojc.md) 
 - [Never use em dashes (or spaced hyphens as dashes) in replies, in anything written on Jonathan's behalf, or in AI produc…](preference/m_tg7ir1gyx.md) 
+- [Never apply to a company Jonathan has already applied to, even for a different role](preference/m_tg82m1ojc.md) 
 - [Application screening questions: always pick the most agreeable option; family/friend/government-relationship and prior…](preference/m_tfdwj4wmi.md) 
 - [Ashby forms - selections can look filled but not commit; Jonathan hit \"required\" prompts on Submit for fields already…](preference/m_tg7kx1p6h.md) 
 - [Standing routine since 2026-10-04 - fill Instinct's blocked application packets from ~/dev/jobsearch/handoffs/ in Jonny…](preference/m_xp4mzf34n.md) 
@@ -114,7 +114,8 @@ Generated 2026-10-08T18:55:30.126Z from /Users/jonathankong/.engram/engram.db. R
 - [Status answers should be concise with file paths](preference/m_tq1i81j6d.md) 
 - [Content research should not be softened or censored](preference/m_tp47l18rj.md) 
 
-## profile (8)
+## profile (9)
+- [Street address for application forms is 4685 Albany Circle, Apt 102, San Jose, CA 95129 (owner, 2026-10-08)](profile/m_wn6d918vh.md) 
 - [Jonathan has LinkedIn Premium and wants LinkedIn InMail plus email as primary cold-outreach channels](profile/m_tg7yg8dqg.md) 
 - [Jonathan goes by Jonny; sign messages and outreach "Jonny", full name only on cover letters and formal application text](profile/m_tg7tz14j3.md) 
 - [Enrolled in concurrent BS/MS](profile/m_w4qrb1j75.md) 
