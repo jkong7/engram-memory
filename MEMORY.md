@@ -1,8 +1,8 @@
 # engram memory
 
-Generated 2026-10-08T20:36:21.344Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
+Generated 2026-10-08T20:46:26.413Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
 
-## preference (114)
+## preference (115)
 - [Never use em dashes (or spaced hyphens as dashes) in replies, in anything written on Jonathan's behalf, or in AI produc…](preference/m_tg7ir1gyx.md) 
 - [Never apply to a company Jonathan has already applied to, even for a different role](preference/m_tg82m1ojc.md) 
 - [Application screening questions: always pick the most agreeable option; family/friend/government-relationship and prior…](preference/m_tfdwj4wmi.md) 
@@ -100,6 +100,7 @@ Generated 2026-10-08T20:36:21.344Z from /Users/jonathankong/.engram/engram.db. R
 - [Visible state for caffeinate toggle](preference/m_vzjpq1khm.md) 
 - [New GitHub repos should be private](preference/m_tuj6riif0.md) 
 - [Finish evidence gathering before drafting deliverables](preference/m_tp4961wv0.md) 
+- [Verify document edits before reporting them](preference/m_027jilw4i.md) 
 - [Prefer same-day postings](preference/m_xn3oo188g.md) 
 - [Playthroughs on Jonny's own account](preference/m_6llymajqj.md) `burner`
 - [Fill personal application prompts](preference/m_y4x1n878c.md) 
@@ -167,7 +168,7 @@ Generated 2026-10-08T20:36:21.344Z from /Users/jonathankong/.engram/engram.db. R
 - [Resume built locally with Tectonic](decision/m_vxkqz1dtu.md) 
 - [Jonny asked for Apple Notes to be organized into folders](decision/m_trtk61c5a.md) 
 
-## fact (142)
+## fact (143)
 - [ENVR_POL 390 cancelled by school](fact/m_wav3vruj1.md) 
 - [~/dev/burner, Burner simulated-phone AI dating/life app; goal is a Status AI rival; private GitHub jkong7/burner (pushe…](fact/m_tg7mh4769.md) 
 - [Jonathan's Northwestern (McCormick BSCS) plan — finish BS Fall 2026 part-time, not enrolled winter/spring, walk June 20…](fact/m_tg80up44x.md) 
@@ -214,7 +215,7 @@ Generated 2026-10-08T20:36:21.344Z from /Users/jonathankong/.engram/engram.db. R
 - [How Jonathan's Claude Code cloud sessions get context (claude-kit synced plugin, repo CLAUDE.md/skills, Research env) a…](fact/m_tg7owirfp.md) 
 - [~/dev/chartside — ambient AI clinical scribe (Next 16), private jkong7/chartside; main fully pushed 2026-09-28; branch…](fact/m_tg7ne1sm9.md) 
 - [Where the job-search pipeline, writing rules, tracker and ground-truth profile live](fact/m_tg7ig11ze.md) 
-- [ENVR_POL 354 enrollment](fact/m_1rneu14fs.md) 
+- [ENVR_POL 354 enrollment and grading](fact/m_1rneu14fs.md) 
 - [Burner web push notifications](fact/m_03uw9dd5k.md) `burner`
 - [Burner multi-user mode](fact/m_03uugnys3.md) `burner`
 - [Burner GitHub repo](fact/m_03ur2n7se.md) `burner`
@@ -258,6 +259,7 @@ Generated 2026-10-08T20:36:21.344Z from /Users/jonathankong/.engram/engram.db. R
 - [Persona (yourpersona.com) is distinct from earlier Persona application](fact/m_triej88rq.md) 
 - [Unposted faceless doom videos F1-F5 in ~/dev/doom-videos](fact/m_tq1eu3q6e.md) 
 - [Northwestern school email is used for recruiter and cold outreach](fact/m_tor17o9lx.md) 
+- [ENVR_POL 354 Week 3 write-up due 2026-10-15](fact/m_027f9ln1s.md) 
 - [Anthropic credit top-up for Persona](fact/m_zroc51ns7.md) 
 - [Burner What they remember sheet](fact/m_03uy08fkk.md) `burner`
 - [prism model access limited to Ollama](fact/m_zyrbx9mpr.md) 
@@ -346,7 +348,7 @@ Generated 2026-10-08T20:36:21.344Z from /Users/jonathankong/.engram/engram.db. R
 - [Build LaTeX resume with Tectonic](procedure/m_w03e11fqf.md) `resume`
 - [Gitignore Go binary names without hiding cmd dirs](procedure/m_tpn1tqy1y.md) 
 
-## reference (45)
+## reference (46)
 - [Application Ledger and master board](reference/m_w4r3x9jkt.md) 
 - [Application Ledger](reference/m_w39idc72j.md) 
 - [YouTube virality research page (claude.ai artifact)](reference/m_tq1gy10ln.md) 
@@ -369,6 +371,7 @@ Generated 2026-10-08T20:36:21.344Z from /Users/jonathankong/.engram/engram.db. R
 - [Chartside full project history file](reference/m_tt677k465.md) `chartside`
 - [Job application ledger artifact and total counter](reference/m_tqq1y44ne.md) 
 - [vigil local workbench dashboard](reference/m_tpn0g1mw3.md) 
+- [ENVR_POL 354 Week 3 write-up Google Doc](reference/m_027i52jmr.md) 
 - [GCP billing console for persona-onboarding-jk](reference/m_vujwj10zm.md) 
 - [AI companion inference cost report](reference/m_vuju2i7sg.md) 
 - [Companion market research notes](reference/m_03v011g0x.md) `burner`
@@ -393,7 +396,8 @@ Generated 2026-10-08T20:36:21.344Z from /Users/jonathankong/.engram/engram.db. R
 - [blackbox private repo and publisher log](reference/m_y3hujxakm.md) 
 - [Verse interview practice setup](reference/m_wf4ow4tzf.md) 
 
-## episode (115)
+## episode (116)
+- [ENVR_POL 354 catch-up and Week 3 write-up review](episode/m_027mi1k1v.md) 
 - [Persona onboarding launch and invoice](episode/m_zrogfqbe5.md) 
 - [AI stocks market research](episode/m_zmd3e1kyr.md) 
 - [Apply run and batches on 2026-10-08](episode/m_xn3uw10h7.md) `jobsearch`
