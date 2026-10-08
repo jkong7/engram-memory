@@ -1,9 +1,10 @@
 # engram memory
 
-Generated 2026-10-08T17:24:47.684Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
+Generated 2026-10-08T17:34:52.748Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
 
-## preference (109)
+## preference (110)
 - [Never use em dashes (or spaced hyphens as dashes) in replies, in anything written on Jonathan's behalf, or in AI produc…](preference/m_tg7ir1gyx.md) 
+- [Application screening questions: always pick the most agreeable option; family/friend/government-relationship and prior…](preference/m_tfdwj4wmi.md) 
 - [Ashby forms - selections can look filled but not commit; Jonathan hit \"required\" prompts on Submit for fields already…](preference/m_tg7kx1p6h.md) 
 - [Standing routine since 2026-10-04 - fill Instinct's blocked application packets from ~/dev/jobsearch/handoffs/ in Jonny…](preference/m_xp4mzf34n.md) 
 - [Answer for \"How did you hear about us\" on applications: always pick Referral/Referred/Employee Referral whenever it i…](preference/m_xp4btpznw.md) 
