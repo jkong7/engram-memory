@@ -1,6 +1,6 @@
 # engram memory
 
-Generated 2026-10-08T03:35:59.792Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
+Generated 2026-10-08T03:46:04.786Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
 
 ## preference (107)
 - [Never use em dashes (or spaced hyphens as dashes) in replies, in anything written on Jonathan's behalf, or in AI produc…](preference/m_tg7ir1gyx.md) 
@@ -156,9 +156,12 @@ Generated 2026-10-08T03:35:59.792Z from /Users/jonathankong/.engram/engram.db. R
 - [Resume built locally with Tectonic](decision/m_vxkqz1dtu.md) 
 - [Jonny asked for Apple Notes to be organized into folders](decision/m_trtk61c5a.md) 
 
-## fact (133)
+## fact (135)
 - [ENVR_POL 390 cancelled by school](fact/m_wav3vruj1.md) 
 - [~/dev/pushback, Pine (19pine.ai) rebuild, AI that phones companies to lower bills, cancel and get refunds; 29 local com…](fact/m_yrr9733zg.md) 
+- [~/dev/prism live visualizer for loom + engram + blackbox runs (launchd com.prism.server on 127.0.0.1:7360), built 2026-…](fact/m_zufnk13oz.md) 
+- [~/dev/lantern live Claude Code visualizer (port 7350); launcher, data sources, what is pending](fact/m_zuf3a1w70.md) 
+- [~/dev/burner, Burner simulated-phone AI dating/life app; goal is a Status AI rival; private GitHub jkong7/burner (pushe…](fact/m_tg7mh4769.md) 
 - [~/dev/engram universal agent memory (MCP + hooks + daemon), installed live 2026-10-07; what is wired, what is pending,…](fact/m_yrqazkbrr.md) 
 - [engram repo and status](fact/m_y77m0uoxs.md) 
 - [BlackRock and Valkyrie assessments](fact/m_y4x5w2y4u.md) 
@@ -199,7 +202,6 @@ Generated 2026-10-08T03:35:59.792Z from /Users/jonathankong/.engram/engram.db. R
 - [jkong7/cooked — live 1v1 hot-take debate app (Go/SQLite/SSE, Claude judge + local fallback, browser MP4 clips)](fact/m_tg7pt8da2.md) 
 - [How Jonathan's Claude Code cloud sessions get context (claude-kit synced plugin, repo CLAUDE.md/skills, Research env) a…](fact/m_tg7owirfp.md) 
 - [~/dev/chartside — ambient AI clinical scribe (Next 16), private jkong7/chartside; main fully pushed 2026-09-28; branch…](fact/m_tg7ne1sm9.md) 
-- [~/dev/burner, Burner simulated-phone AI dating/life app; goal is a Status AI rival; local git, not pushed, started 2026…](fact/m_tg7mh4769.md) 
 - [Where the job-search pipeline, writing rules, tracker and ground-truth profile live](fact/m_tg7ig11ze.md) 
 - [Footwear photo series approved, behind a flag](fact/m_y7v2dd1s2.md) `burner`
 - [Burner port layout for testing](fact/m_y7uvuyc4s.md) `burner`
