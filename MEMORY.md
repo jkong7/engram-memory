@@ -1,6 +1,6 @@
 # engram memory
 
-Generated 2026-10-08T16:14:11.871Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
+Generated 2026-10-08T16:24:16.991Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
 
 ## preference (109)
 - [Never use em dashes (or spaced hyphens as dashes) in replies, in anything written on Jonathan's behalf, or in AI produc…](preference/m_tg7ir1gyx.md) 
@@ -123,10 +123,11 @@ Generated 2026-10-08T16:14:11.871Z from /Users/jonathankong/.engram/engram.db. R
 - [Abridge Level of Service project](profile/m_tribg1luv.md) 
 - [Learning agent architecture from first principles](profile/m_y563fad7h.md) 
 
-## decision (35)
+## decision (36)
 - [Builder limited to lab repo](decision/m_wibs811vt.md) 
 - [Chartside stripped to core slice](decision/m_wg1ex16q7.md) `chartside`
 - [Two resume tracks by graduation path](decision/m_vxktc1in1.md) 
+- [Top three retention builds approved](decision/m_qpwwv1ddj.md) 
 - [MAS graduation moved to Fall 2026](decision/m_1rngj1dn4.md) 
 - [prism on private GitHub repo](decision/m_0me3y1qyj.md) 
 - [Engram memory snapshots go to a private repo](decision/m_y8k8719p9.md) 
@@ -160,7 +161,7 @@ Generated 2026-10-08T16:14:11.871Z from /Users/jonathankong/.engram/engram.db. R
 - [Resume built locally with Tectonic](decision/m_vxkqz1dtu.md) 
 - [Jonny asked for Apple Notes to be organized into folders](decision/m_trtk61c5a.md) 
 
-## fact (142)
+## fact (141)
 - [ENVR_POL 390 cancelled by school](fact/m_wav3vruj1.md) 
 - [~/dev/burner, Burner simulated-phone AI dating/life app; goal is a Status AI rival; private GitHub jkong7/burner (pushe…](fact/m_tg7mh4769.md) 
 - [Jonathan's Northwestern (McCormick BSCS) plan — finish BS Fall 2026 part-time, not enrolled winter/spring, walk June 20…](fact/m_tg80up44x.md) 
@@ -219,7 +220,6 @@ Generated 2026-10-08T16:14:11.871Z from /Users/jonathankong/.engram/engram.db. R
 - [Burner Gemini model split and test server](fact/m_y028t1i8c.md) `burner`
 - [Triage and Builder run as claude.ai routines](fact/m_wmqbjpudf.md) 
 - [Claude launch shortcuts (skhd)](fact/m_wlfj2bf48.md) 
-- [persona-onboarding kept always-on until Persona replies](fact/m_wkil1vwp4.md) 
 - [Instinct is read-only on Todoist](fact/m_wkicsabf6.md) 
 - [brain vault lives in iCloud](fact/m_wjvsapf51.md) 
 - [Notes vault backup repo](fact/m_wjvp4xn1s.md) 
@@ -383,7 +383,8 @@ Generated 2026-10-08T16:14:11.871Z from /Users/jonathankong/.engram/engram.db. R
 - [blackbox private repo and publisher log](reference/m_y3hujxakm.md) 
 - [Verse interview practice setup](reference/m_wf4ow4tzf.md) 
 
-## episode (110)
+## episode (111)
+- [Burner retention builds and GCP billing](episode/m_qpxb0bioq.md) `burner`
 - [Burner playthrough handoff to dev-d5](episode/m_6lm1u1c8y.md) `burner`
 - [ENVR_POL 354 catch-up and graduation term](episode/m_1rnilwfi1.md) 
 - [Lantern build, GitHub sync, and prism split](episode/m_0meeabakh.md) 
