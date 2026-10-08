@@ -1,10 +1,10 @@
 # engram memory
 
-Generated 2026-10-08T03:05:49.865Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
+Generated 2026-10-08T03:15:55.027Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
 
 ## preference (107)
-- [Form clicks must register and stay](preference/m_tg7kx1p6h.md) 
 - [Never use em dashes (or spaced hyphens as dashes) in replies, in anything written on Jonathan's behalf, or in AI produc…](preference/m_tg7ir1gyx.md) 
+- [Ashby forms - selections can look filled but not commit; Jonathan hit \"required\" prompts on Submit for fields already…](preference/m_tg7kx1p6h.md) 
 - [Standing routine since 2026-10-04 - fill Instinct's blocked application packets from ~/dev/jobsearch/handoffs/ in Jonny…](preference/m_xp4mzf34n.md) 
 - [Answer for \"How did you hear about us\" on applications: always pick Referral/Referred/Employee Referral whenever it i…](preference/m_xp4btpznw.md) 
 - [Never mention MathWorks](preference/m_w4qkl1xdm.md) 
@@ -156,8 +156,10 @@ Generated 2026-10-08T03:05:49.865Z from /Users/jonathankong/.engram/engram.db. R
 - [Resume built locally with Tectonic](decision/m_vxkqz1dtu.md) 
 - [Jonny asked for Apple Notes to be organized into folders](decision/m_trtk61c5a.md) 
 
-## fact (131)
+## fact (133)
 - [ENVR_POL 390 cancelled by school](fact/m_wav3vruj1.md) 
+- [~/dev/pushback, Pine (19pine.ai) rebuild, AI that phones companies to lower bills, cancel and get refunds; 29 local com…](fact/m_yrr9733zg.md) 
+- [~/dev/engram universal agent memory (MCP + hooks + daemon), installed live 2026-10-07; what is wired, what is pending,…](fact/m_yrqazkbrr.md) 
 - [engram repo and status](fact/m_y77m0uoxs.md) 
 - [BlackRock and Valkyrie assessments](fact/m_y4x5w2y4u.md) 
 - [Applications submitted 2026-10-07 (Bay Area, Chicago, TikTok)](fact/m_y11821see.md) 
