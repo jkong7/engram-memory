@@ -1,8 +1,8 @@
 # engram memory
 
-Generated 2026-10-08T19:25:45.396Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
+Generated 2026-10-08T19:35:50.495Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
 
-## preference (110)
+## preference (114)
 - [Never use em dashes (or spaced hyphens as dashes) in replies, in anything written on Jonathan's behalf, or in AI produc…](preference/m_tg7ir1gyx.md) 
 - [Never apply to a company Jonathan has already applied to, even for a different role](preference/m_tg82m1ojc.md) 
 - [Application screening questions: always pick the most agreeable option; family/friend/government-relationship and prior…](preference/m_tfdwj4wmi.md) 
@@ -25,6 +25,7 @@ Generated 2026-10-08T19:25:45.396Z from /Users/jonathankong/.engram/engram.db. R
 - [Automate applications and outreach up to the final step, never submit or send](preference/m_tg7jt18sc.md) 
 - [Jonathan adopts stack technologies and MCP servers as concrete needs arise, not preemptively](preference/m_tg7jkmrou.md) 
 - [Jonathan positions as a broad software engineer, not a health-tech or CDI specialist](preference/m_tg7j53dtq.md) 
+- [Skipped roles go to blocklist](preference/m_xn3jofx3x.md) 
 - [Burner characters should feel like real people](preference/m_y7uyrg5mz.md) `burner`
 - [Burner character photo look](preference/m_wnpmv9onc.md) `burner`
 - [No account creation or password entry on ATS sites](preference/m_y1n9xodc5.md) 
@@ -37,6 +38,8 @@ Generated 2026-10-08T19:25:45.396Z from /Users/jonathankong/.engram/engram.db. R
 - [Chicago outreach email template](preference/m_tqpx81ef6.md) 
 - [Agents do not create accounts or enter passwords on third-party services](preference/m_tor2q1vpf.md) 
 - [Outreach messages lead with the Abridge hook and cite specific work after research](preference/m_toqzi17zu.md) 
+- [Job search geography](preference/m_xn3n71idb.md) 
+- [Verify, close and sync after batches](preference/m_xn3lpay7b.md) 
 - [Burner consumer-readiness work and Gemini credit budget](preference/m_03usx1uti.md) `burner`
 - [One memory system, not overlapping ones](preference/m_y8ka81y75.md) 
 - [Playtest Burner as a user before calling it done](preference/m_y7v02s3v1.md) `burner`
@@ -97,6 +100,7 @@ Generated 2026-10-08T19:25:45.396Z from /Users/jonathankong/.engram/engram.db. R
 - [Visible state for caffeinate toggle](preference/m_vzjpq1khm.md) 
 - [New GitHub repos should be private](preference/m_tuj6riif0.md) 
 - [Finish evidence gathering before drafting deliverables](preference/m_tp4961wv0.md) 
+- [Prefer same-day postings](preference/m_xn3oo188g.md) 
 - [Playthroughs on Jonny's own account](preference/m_6llymajqj.md) `burner`
 - [Fill personal application prompts](preference/m_y4x1n878c.md) 
 - [Relatives, vendor and competitor questions answered No](preference/m_y1njln752.md) 
@@ -306,7 +310,7 @@ Generated 2026-10-08T19:25:45.396Z from /Users/jonathankong/.engram/engram.db. R
 - [Verse Medical dev database seed scale](fact/m_tu68ee859.md) 
 - [Jonathan's Sleeper league settings](fact/m_tteeq1ghm.md) 
 
-## procedure (32)
+## procedure (33)
 - [Verifying Greenhouse and Ashby form answers register before Submit](procedure/m_wgurm13k5.md) 
 - [Rolling back Chartside Cloud Run to the previous revision](procedure/m_wel0ga1uq.md) `chartside`
 - [Generating Burner character photos with Nano Banana](procedure/m_y6jeh1lw1.md) `burner`
@@ -323,6 +327,7 @@ Generated 2026-10-08T19:25:45.396Z from /Users/jonathankong/.engram/engram.db. R
 - [Reading and moving Apple Notes with AppleScript](procedure/m_trtiqk6x0.md) 
 - [Collecting Instagram Reels data from the logged-in Chrome session](procedure/m_tp45ua67a.md) 
 - [Filling Greenhouse and Ashby application forms in Chrome (dropdowns and warm-up)](procedure/m_toqx2x76k.md) 
+- [Fixing Workday resume autofill work history](procedure/m_xn3r61i22.md) 
 - [Split a commit-heavy repo into per-component commits without touching the working tree](procedure/m_0meapn1nx.md) 
 - [Starting blackbox so prism shows run history](procedure/m_zyrdk10ik.md) 
 - [SQLite FTS5 ingest: key rows by rowid, not span_id](procedure/m_y3hpm11sy.md) `blackbox`
@@ -387,7 +392,8 @@ Generated 2026-10-08T19:25:45.396Z from /Users/jonathankong/.engram/engram.db. R
 - [blackbox private repo and publisher log](reference/m_y3hujxakm.md) 
 - [Verse interview practice setup](reference/m_wf4ow4tzf.md) 
 
-## episode (112)
+## episode (113)
+- [Apply run and batches on 2026-10-08](episode/m_xn3uw10h7.md) `jobsearch`
 - [Burner billing restored and cost research](episode/m_vuk0c1czc.md) 
 - [Burner retention builds and GCP billing](episode/m_qpxb0bioq.md) `burner`
 - [Burner playthrough handoff to dev-d5](episode/m_6lm1u1c8y.md) `burner`
