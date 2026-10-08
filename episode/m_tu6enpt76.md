@@ -1,7 +1,7 @@
 ---
 id: "m_tu6enpt76"
 kind: "episode"
-scope: "project:~/dev"
+scope: "project:~/dev/verse-medical"
 title: "Verse Medical research and local clone build"
 tags: ["claude-code"]
 importance: 3

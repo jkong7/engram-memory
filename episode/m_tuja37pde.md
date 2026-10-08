@@ -1,7 +1,7 @@
 ---
 id: "m_tuja37pde"
 kind: "episode"
-scope: "project:~/dev"
+scope: "global"
 title: "Uncommitted local projects and persona-onboarding push"
 tags: ["claude-code"]
 importance: 3

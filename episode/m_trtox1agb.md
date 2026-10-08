@@ -1,7 +1,7 @@
 ---
 id: "m_trtox1agb"
 kind: "episode"
-scope: "project:~/dev"
+scope: "global"
 title: "Read and organized Apple Notes via AppleScript"
 tags: ["claude-code"]
 importance: 3

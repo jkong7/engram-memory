@@ -1,7 +1,7 @@
 ---
 id: "m_tt6bb1c4j"
 kind: "fact"
-scope: "project:~/dev"
+scope: "project:~/dev/chartside"
 title: "Chartside excludes licensed coding data from the repo"
 tags: ["chartside","licensing","coding"]
 importance: 4

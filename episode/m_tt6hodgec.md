@@ -1,7 +1,7 @@
 ---
 id: "m_tt6hodgec"
 kind: "episode"
-scope: "project:~/dev"
+scope: "project:~/dev/chartside"
 title: "Chartside: AI clinician scribe research, build, and push (2026-09-27)"
 tags: ["claude-code"]
 importance: 3

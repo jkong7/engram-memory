@@ -1,7 +1,7 @@
 ---
 id: "m_tv1yb3yeu"
 kind: "episode"
-scope: "project:~/dev"
+scope: "global"
 title: "Technician-job pairing problem (2026-09-28)"
 tags: ["claude-code"]
 importance: 3

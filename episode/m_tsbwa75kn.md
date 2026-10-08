@@ -1,7 +1,7 @@
 ---
 id: "m_tsbwa75kn"
 kind: "episode"
-scope: "project:~/dev"
+scope: "global"
 title: "Applications and outreach from the 09-25/26 boards, then 7 more roles"
 tags: ["claude-code"]
 importance: 3

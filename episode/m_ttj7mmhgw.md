@@ -1,7 +1,7 @@
 ---
 id: "m_ttj7mmhgw"
 kind: "episode"
-scope: "project:~/dev"
+scope: "global"
 title: "Sleeper Week 3 waiver claims: Gordon in, Lloyd cancelled"
 tags: ["claude-code"]
 importance: 3

@@ -1,7 +1,7 @@
 ---
 id: "m_tpn563xix"
 kind: "episode"
-scope: "project:~/dev"
+scope: "global"
 title: "Built vigil, sidebet, cooked and Campus Markets"
 tags: ["claude-code"]
 importance: 3

@@ -1,7 +1,7 @@
 ---
 id: "m_trii636iw"
 kind: "episode"
-scope: "project:~/dev"
+scope: "global"
 title: "Ledger updates, Persona call and assessment withdrawals (2026-09-25 to 2026-09-26)"
 tags: ["claude-code"]
 importance: 3

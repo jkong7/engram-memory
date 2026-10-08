@@ -1,7 +1,7 @@
 ---
 id: "m_tt68p1oap"
 kind: "fact"
-scope: "project:~/dev"
+scope: "project:~/dev/chartside"
 title: "Chartside Epic integration not yet tested against Epic"
 tags: ["chartside","epic","smart-on-fhir"]
 importance: 5

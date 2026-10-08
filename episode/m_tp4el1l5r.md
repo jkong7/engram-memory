@@ -1,7 +1,7 @@
 ---
 id: "m_tp4el1l5r"
 kind: "episode"
-scope: "project:~/dev"
+scope: "global"
 title: "Instagram Reels feed research and short-form video drafts (2026-09-25)"
 tags: ["claude-code"]
 importance: 3

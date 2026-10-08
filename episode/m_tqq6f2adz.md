@@ -1,7 +1,7 @@
 ---
 id: "m_tqq6f2adz"
 kind: "episode"
-scope: "project:~/dev"
+scope: "global"
 title: "Applications, outreach and referral setup, 2026-09-24 to 2026-09-25"
 tags: ["claude-code"]
 importance: 3

@@ -1,7 +1,7 @@
 ---
 id: "m_tu6b7tzvj"
 kind: "procedure"
-scope: "project:~/dev"
+scope: "global"
 title: "Queue timed commits for the Verse publisher"
 tags: ["verse-medical","publisher","git","gotcha"]
 importance: 5

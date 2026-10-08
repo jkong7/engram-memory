@@ -1,7 +1,7 @@
 ---
 id: "m_tuoci1wuk"
 kind: "episode"
-scope: "project:~/dev"
+scope: "global"
 title: "Solving competition-style math problems from screenshots (2026-09-27)"
 tags: ["claude-code"]
 importance: 3

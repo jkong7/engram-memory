@@ -1,7 +1,7 @@
 ---
 id: "m_ttej41ic5"
 kind: "episode"
-scope: "project:~/dev"
+scope: "global"
 title: "Sleeper fantasy lineup and trade review, Week 3 2026"
 tags: ["claude-code"]
 importance: 3

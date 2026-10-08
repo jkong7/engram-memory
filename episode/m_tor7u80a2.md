@@ -1,7 +1,7 @@
 ---
 id: "m_tor7u80a2"
 kind: "episode"
-scope: "project:~/dev"
+scope: "global"
 title: "Job outreach drafts, ledger sync, and partial applications (2026-09-24)"
 tags: ["claude-code"]
 importance: 3

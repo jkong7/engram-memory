@@ -1,7 +1,7 @@
 ---
 id: "m_tp4b1p5al"
 kind: "fact"
-scope: "project:~/dev"
+scope: "global"
 title: "reels-research project outputs and purpose"
 tags: ["reels-research","instagram","engagement","video"]
 importance: 4

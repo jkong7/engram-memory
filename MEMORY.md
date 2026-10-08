@@ -1,15 +1,15 @@
 # engram memory
 
-Generated 2026-10-08T00:58:25.097Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
+Generated 2026-10-08T01:08:26.262Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
 
 ## preference (38)
+- [Never use em dashes (or spaced hyphens as dashes) in replies, in anything written on Jonathan's behalf, or in AI produc…](preference/m_tg7ir1gyx.md) 
 - [Before writing anything sent/shared/posted as Jonny (emails, apps, messages, docs, drafts), read ~/brain/me/voice.md an…](preference/m_tg8bl16u8.md) 
 - [Jonny's top priority for the brain system is how easily he sees updates; results must show up in the pushes he already…](preference/m_tg8a11f59.md) 
 - [Which resume PDFs to upload on applications (changed 2026-10-06) and the current Abridge title](preference/m_tg86fxc3n.md) 
 - [Never apply to a company Jonathan has already applied to, even for a different role](preference/m_tg82m1ojc.md) 
 - [Never send emails or LinkedIn messages on Jonathan's behalf; draft only, he sends](preference/m_tg7zz1qbu.md) 
 - [Never schedule Jonathan's work/OA/study blocks in the morning; afternoon (12pm+) or later only](preference/m_tg7zneh3e.md) 
-- [Never use em dashes (or spaced hyphens as dashes) in replies, in anything written on Jonathan's behalf, or in AI produc…](preference/m_tg7ir1gyx.md) 
 - [Jonny wants judgment, not literal over-application of each instruction; don't swing specs to extremes](preference/m_tg7y58j7d.md) 
 - [Standing routine since 2026-10-04 - fill Instinct's blocked application packets from ~/dev/jobsearch/handoffs/ in Jonny…](preference/m_tg7wx3d5n.md) 
 - [Answer for \"How did you hear about us\" on applications: always pick Referral/Referred/Employee Referral whenever it i…](preference/m_tg7vd1gsw.md) 
@@ -48,7 +48,8 @@ Generated 2026-10-08T00:58:25.097Z from /Users/jonathankong/.engram/engram.db. R
 - [Abridge Query Engine project](profile/m_tri9g1wwj.md) 
 - [Abridge Level of Service project](profile/m_tribg1luv.md) 
 
-## fact (35)
+## fact (36)
+- [~/dev/cue = Cue, improved Cluely rebuild (Electron overlay, me/them audio, memory, practice, calendar); 21 commits queu…](fact/m_u23d21hmj.md) 
 - [OnePay and Verse Medical status as of 2026-09-25](fact/m_tqq3w1ger.md) 
 - [jkong7/vigil — Go uptime monitor portfolio project built to close resume skill gaps; job-search tooling is off-limits a…](fact/m_tg8b41vax.md) 
 - [~/dev/verse-medical DME platform replica (private jkong7/verse-medical); built 2026-09-27, publishing via timed queue](fact/m_tg8arj375.md) 
@@ -72,15 +73,15 @@ Generated 2026-10-08T00:58:25.097Z from /Users/jonathankong/.engram/engram.db. R
 - [~/dev/chartside — ambient AI clinical scribe (Next 16), private jkong7/chartside; main fully pushed 2026-09-28; branch…](fact/m_tg7ne1sm9.md) 
 - [~/dev/burner, Burner simulated-phone AI dating/life app; goal is a Status AI rival; local git, not pushed, started 2026…](fact/m_tg7mh4769.md) 
 - [Where the job-search pipeline, writing rules, tracker and ground-truth profile live](fact/m_tg7ig11ze.md) 
-- [Chartside Epic integration not yet tested against Epic](fact/m_tt68p1oap.md) `dev`
+- [Chartside Epic integration not yet tested against Epic](fact/m_tt68p1oap.md) `chartside`
 - [Persona (yourpersona.com) is distinct from earlier Persona application](fact/m_triej88rq.md) 
 - [Unposted faceless doom videos F1-F5 in ~/dev/doom-videos](fact/m_tq1eu3q6e.md) 
 - [Northwestern school email is used for recruiter and cold outreach](fact/m_tor17o9lx.md) 
 - [Instinct's GitHub connection is read-only and cannot run Actions](fact/m_tuc4di7zu.md) 
 - [Verse Medical clone test status and stack](fact/m_tu66d1x1s.md) 
-- [Chartside excludes licensed coding data from the repo](fact/m_tt6bb1c4j.md) `dev`
+- [Chartside excludes licensed coding data from the repo](fact/m_tt6bb1c4j.md) `chartside`
 - [Apple Notes folder layout after 2026-09-26 reorganization](fact/m_trtmj12t1.md) 
-- [reels-research project outputs and purpose](fact/m_tp4b1p5al.md) `dev`
+- [reels-research project outputs and purpose](fact/m_tp4b1p5al.md) 
 - [LinkedIn Premium renewal around 2026-10-21](fact/m_tor4o18by.md) 
 - [Verse Medical dev database seed scale](fact/m_tu68ee859.md) 
 - [Jonathan's Sleeper league settings](fact/m_tteeq1ghm.md) 
@@ -92,7 +93,7 @@ Generated 2026-10-08T00:58:25.097Z from /Users/jonathankong/.engram/engram.db. R
 - [claude.ai Gmail/Drive/Calendar connectors are linked to personal jonathankong677@gmail.com, not the school account jona…](reference/m_tg7sv119c.md) 
 - [DoorDash + Chipotle orders are done via Claude in Chrome using Jonathan's existing logged-in sessions](reference/m_tg7rc16qz.md) 
 - [persona-onboarding private GitHub repo](reference/m_tuj5a1fyl.md) 
-- [Chartside full project history file](reference/m_tt677k465.md) `dev`
+- [Chartside full project history file](reference/m_tt677k465.md) `chartside`
 - [Job application ledger artifact and total counter](reference/m_tqq1y44ne.md) 
 - [vigil local workbench dashboard](reference/m_tpn0g1mw3.md) 
 - [Jonathan's Sleeper fantasy NFL league](reference/m_ttectxvvr.md) 
@@ -105,7 +106,7 @@ Generated 2026-10-08T00:58:25.097Z from /Users/jonathankong/.engram/engram.db. R
 - [Jonny asked for Apple Notes to be organized into folders](decision/m_trtk61c5a.md) 
 
 ## procedure (6)
-- [Queue timed commits for the Verse publisher](procedure/m_tu6b7tzvj.md) `dev`
+- [Queue timed commits for the Verse publisher](procedure/m_tu6b7tzvj.md) 
 - [Reading and moving Apple Notes with AppleScript](procedure/m_trtiqk6x0.md) 
 - [Collecting Instagram Reels data from the logged-in Chrome session](procedure/m_tp45ua67a.md) 
 - [Filling Greenhouse and Ashby application forms in Chrome (dropdowns and warm-up)](procedure/m_toqx2x76k.md) 
@@ -113,22 +114,22 @@ Generated 2026-10-08T00:58:25.097Z from /Users/jonathankong/.engram/engram.db. R
 - [Gitignore Go binary names without hiding cmd dirs](procedure/m_tpn1tqy1y.md) 
 
 ## episode (19)
-- [Reset Google Calendar and sort Northwestern and interview items](episode/m_tvejq1472.md) `dev`
-- [Technician-job pairing problem (2026-09-28)](episode/m_tv1yb3yeu.md) `dev`
-- [Snapshot budget greedy and dispatcher reachability problems (2026-09-28)](episode/m_tuunpe8al.md) `dev`
-- [Solving competition-style math problems from screenshots (2026-09-27)](episode/m_tuoci1wuk.md) `dev`
-- [Uncommitted local projects and persona-onboarding push](episode/m_tuja37pde.md) `dev`
-- [Connecting Instinct to GitHub for the Daily job sweep](episode/m_tuc771cwq.md) `dev`
-- [Verse Medical research and local clone build](episode/m_tu6enpt76.md) `dev`
-- [Sleeper Week 3 waiver claims: Gordon in, Lloyd cancelled](episode/m_ttj7mmhgw.md) `dev`
-- [Sleeper fantasy lineup and trade review, Week 3 2026](episode/m_ttej41ic5.md) `dev`
-- [Chartside: AI clinician scribe research, build, and push (2026-09-27)](episode/m_tt6hodgec.md) `dev`
-- [Job boards startup research and ranked artifact](episode/m_tshr01if3.md) `dev`
-- [Applications and outreach from the 09-25/26 boards, then 7 more roles](episode/m_tsbwa75kn.md) `dev`
-- [Read and organized Apple Notes via AppleScript](episode/m_trtox1agb.md) `dev`
-- [Ledger updates, Persona call and assessment withdrawals (2026-09-25 to 2026-09-26)](episode/m_trii636iw.md) `dev`
-- [Applications, outreach and referral setup, 2026-09-24 to 2026-09-25](episode/m_tqq6f2adz.md) `dev`
-- [YouTube virality research and faceless video production](episode/m_tq1kk15o5.md) `dev`
-- [Built vigil, sidebet, cooked and Campus Markets](episode/m_tpn563xix.md) `dev`
-- [Instagram Reels feed research and short-form video drafts (2026-09-25)](episode/m_tp4el1l5r.md) `dev`
-- [Job outreach drafts, ledger sync, and partial applications (2026-09-24)](episode/m_tor7u80a2.md) `dev`
+- [Reset Google Calendar and sort Northwestern and interview items](episode/m_tvejq1472.md) 
+- [Technician-job pairing problem (2026-09-28)](episode/m_tv1yb3yeu.md) 
+- [Snapshot budget greedy and dispatcher reachability problems (2026-09-28)](episode/m_tuunpe8al.md) 
+- [Solving competition-style math problems from screenshots (2026-09-27)](episode/m_tuoci1wuk.md) 
+- [Uncommitted local projects and persona-onboarding push](episode/m_tuja37pde.md) 
+- [Connecting Instinct to GitHub for the Daily job sweep](episode/m_tuc771cwq.md) `jobsearch`
+- [Verse Medical research and local clone build](episode/m_tu6enpt76.md) `verse-medical`
+- [Sleeper Week 3 waiver claims: Gordon in, Lloyd cancelled](episode/m_ttj7mmhgw.md) 
+- [Sleeper fantasy lineup and trade review, Week 3 2026](episode/m_ttej41ic5.md) 
+- [Chartside: AI clinician scribe research, build, and push (2026-09-27)](episode/m_tt6hodgec.md) `chartside`
+- [Job boards startup research and ranked artifact](episode/m_tshr01if3.md) 
+- [Applications and outreach from the 09-25/26 boards, then 7 more roles](episode/m_tsbwa75kn.md) 
+- [Read and organized Apple Notes via AppleScript](episode/m_trtox1agb.md) 
+- [Ledger updates, Persona call and assessment withdrawals (2026-09-25 to 2026-09-26)](episode/m_trii636iw.md) 
+- [Applications, outreach and referral setup, 2026-09-24 to 2026-09-25](episode/m_tqq6f2adz.md) 
+- [YouTube virality research and faceless video production](episode/m_tq1kk15o5.md) 
+- [Built vigil, sidebet, cooked and Campus Markets](episode/m_tpn563xix.md) 
+- [Instagram Reels feed research and short-form video drafts (2026-09-25)](episode/m_tp4el1l5r.md) 
+- [Job outreach drafts, ledger sync, and partial applications (2026-09-24)](episode/m_tor7u80a2.md) 

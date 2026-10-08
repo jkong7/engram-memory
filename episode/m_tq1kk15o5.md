@@ -1,7 +1,7 @@
 ---
 id: "m_tq1kk15o5"
 kind: "episode"
-scope: "project:~/dev"
+scope: "global"
 title: "YouTube virality research and faceless video production"
 tags: ["claude-code"]
 importance: 3

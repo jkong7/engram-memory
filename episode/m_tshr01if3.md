@@ -1,7 +1,7 @@
 ---
 id: "m_tshr01if3"
 kind: "episode"
-scope: "project:~/dev"
+scope: "global"
 title: "Job boards startup research and ranked artifact"
 tags: ["claude-code"]
 importance: 3

@@ -1,7 +1,7 @@
 ---
 id: "m_tuc771cwq"
 kind: "episode"
-scope: "project:~/dev"
+scope: "project:~/dev/jobsearch"
 title: "Connecting Instinct to GitHub for the Daily job sweep"
 tags: ["claude-code"]
 importance: 3

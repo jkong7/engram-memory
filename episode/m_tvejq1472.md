@@ -1,7 +1,7 @@
 ---
 id: "m_tvejq1472"
 kind: "episode"
-scope: "project:~/dev"
+scope: "global"
 title: "Reset Google Calendar and sort Northwestern and interview items"
 tags: ["claude-code"]
 importance: 3

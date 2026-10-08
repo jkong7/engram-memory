@@ -1,7 +1,7 @@
 ---
 id: "m_tuunpe8al"
 kind: "episode"
-scope: "project:~/dev"
+scope: "global"
 title: "Snapshot budget greedy and dispatcher reachability problems (2026-09-28)"
 tags: ["claude-code"]
 importance: 3
