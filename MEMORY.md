@@ -1,6 +1,6 @@
 # engram memory
 
-Generated 2026-10-08T04:06:15.073Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
+Generated 2026-10-08T04:16:20.169Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
 
 ## preference (108)
 - [Never use em dashes (or spaced hyphens as dashes) in replies, in anything written on Jonathan's behalf, or in AI produc…](preference/m_tg7ir1gyx.md) 
@@ -122,10 +122,11 @@ Generated 2026-10-08T04:06:15.073Z from /Users/jonathankong/.engram/engram.db. R
 - [Abridge Level of Service project](profile/m_tribg1luv.md) 
 - [Learning agent architecture from first principles](profile/m_y563fad7h.md) 
 
-## decision (33)
+## decision (34)
 - [Builder limited to lab repo](decision/m_wibs811vt.md) 
 - [Chartside stripped to core slice](decision/m_wg1ex16q7.md) `chartside`
 - [Two resume tracks by graduation path](decision/m_vxktc1in1.md) 
+- [prism on private GitHub repo](decision/m_0me3y1qyj.md) 
 - [Engram memory snapshots go to a private repo](decision/m_y8k8719p9.md) 
 - [engram published publicly](decision/m_y77npz4b7.md) 
 - [engram off for Claude Code](decision/m_y4b1enrj5.md) 
@@ -159,9 +160,10 @@ Generated 2026-10-08T04:06:15.073Z from /Users/jonathankong/.engram/engram.db. R
 
 ## fact (141)
 - [ENVR_POL 390 cancelled by school](fact/m_wav3vruj1.md) 
+- [~/dev/prism live visualizer for loom + engram + blackbox runs (launchd com.prism.server on 127.0.0.1:7360), built 2026-…](fact/m_zufnk13oz.md) 
+- [~/dev/cc = public jkong7/CC- CS 322 compiler (L1/L2/L3/IR C++ on PEGTL); being extended 10/7 with drip publisher](fact/m_xp426k3nv.md) 
 - [Burner LLM routing](fact/m_03upd5be4.md) `burner`
 - [~/dev/pushback, Pine (19pine.ai) rebuild, AI that phones companies to lower bills, cancel and get refunds; 29 local com…](fact/m_yrr9733zg.md) 
-- [~/dev/prism live visualizer for loom + engram + blackbox runs (launchd com.prism.server on 127.0.0.1:7360), built 2026-…](fact/m_zufnk13oz.md) 
 - [~/dev/lantern live Claude Code visualizer (port 7350); launcher, data sources, what is pending](fact/m_zuf3a1w70.md) 
 - [~/dev/burner, Burner simulated-phone AI dating/life app; goal is a Status AI rival; private GitHub jkong7/burner (pushe…](fact/m_tg7mh4769.md) 
 - [~/dev/engram universal agent memory (MCP + hooks + daemon), installed live 2026-10-07; what is wired, what is pending,…](fact/m_yrqazkbrr.md) 
@@ -172,7 +174,6 @@ Generated 2026-10-08T04:06:15.073Z from /Users/jonathankong/.engram/engram.db. R
 - [Applications submitted 2026-10-06](fact/m_xzur81k17.md) 
 - [Decagon technical screen 2026-10-21](fact/m_xyo97th9b.md) 
 - [Jonathan's Claude Code launch shortcuts live in ~/.local/bin, bound to Cmd+1/2/3 by skhd (not Raycast)](fact/m_xp56c19bu.md) 
-- [~/dev/cc = public jkong7/CC- CS 322 compiler (L1/L2/L3/IR C++ on PEGTL); being extended 10/7 with drip publisher](fact/m_xp426k3nv.md) 
 - [Burner repo and local run](fact/m_wnpdz1wrc.md) `burner`
 - [MasterControl application submitted](fact/m_wm1kvdfix.md) 
 - [⌘4 job-application run](fact/m_wlfma12i6.md) 
@@ -300,7 +301,7 @@ Generated 2026-10-08T04:06:15.073Z from /Users/jonathankong/.engram/engram.db. R
 - [Verse Medical dev database seed scale](fact/m_tu68ee859.md) 
 - [Jonathan's Sleeper league settings](fact/m_tteeq1ghm.md) 
 
-## procedure (31)
+## procedure (32)
 - [Verifying Greenhouse and Ashby form answers register before Submit](procedure/m_wgurm13k5.md) 
 - [Rolling back Chartside Cloud Run to the previous revision](procedure/m_wel0ga1uq.md) `chartside`
 - [Generating Burner character photos with Nano Banana](procedure/m_y6jeh1lw1.md) `burner`
@@ -317,6 +318,7 @@ Generated 2026-10-08T04:06:15.073Z from /Users/jonathankong/.engram/engram.db. R
 - [Reading and moving Apple Notes with AppleScript](procedure/m_trtiqk6x0.md) 
 - [Collecting Instagram Reels data from the logged-in Chrome session](procedure/m_tp45ua67a.md) 
 - [Filling Greenhouse and Ashby application forms in Chrome (dropdowns and warm-up)](procedure/m_toqx2x76k.md) 
+- [Split a commit-heavy repo into per-component commits without touching the working tree](procedure/m_0meapn1nx.md) 
 - [Starting blackbox so prism shows run history](procedure/m_zyrdk10ik.md) 
 - [SQLite FTS5 ingest: key rows by rowid, not span_id](procedure/m_y3hpm11sy.md) `blackbox`
 - [Zsh git refspec gotcha](procedure/m_y2ch51j7g.md) 
@@ -333,7 +335,7 @@ Generated 2026-10-08T04:06:15.073Z from /Users/jonathankong/.engram/engram.db. R
 - [Build LaTeX resume with Tectonic](procedure/m_w03e11fqf.md) `resume`
 - [Gitignore Go binary names without hiding cmd dirs](procedure/m_tpn1tqy1y.md) 
 
-## reference (41)
+## reference (43)
 - [Application Ledger and master board](reference/m_w4r3x9jkt.md) 
 - [Application Ledger](reference/m_w39idc72j.md) 
 - [YouTube virality research page (claude.ai artifact)](reference/m_tq1gy10ln.md) 
@@ -341,6 +343,8 @@ Generated 2026-10-08T04:06:15.073Z from /Users/jonathankong/.engram/engram.db. R
 - [Jonny's second agent "Instinct" (iMessage/WhatsApp/calls) submits applications and writes to jkong7/jobsearch; coordina…](reference/m_tg7w89t1c.md) 
 - [claude.ai Gmail/Drive/Calendar connectors are linked to personal jonathankong677@gmail.com, not the school account jona…](reference/m_tg7sv119c.md) 
 - [DoorDash + Chipotle orders are done via Claude in Chrome using Jonathan's existing logged-in sessions](reference/m_tg7rc16qz.md) 
+- [prism GitHub publisher](reference/m_0me77p3si.md) 
+- [lantern GitHub publisher](reference/m_0me1wsjsj.md) 
 - [Pushback repo and publisher](reference/m_zy6iwtg4y.md) 
 - [engram-memory private backup repo](reference/m_y8kfefhho.md) 
 - [Cue publisher and private repo](reference/m_y5p3914k5.md) 
@@ -376,7 +380,8 @@ Generated 2026-10-08T04:06:15.073Z from /Users/jonathankong/.engram/engram.db. R
 - [blackbox private repo and publisher log](reference/m_y3hujxakm.md) 
 - [Verse interview practice setup](reference/m_wf4ow4tzf.md) 
 
-## episode (107)
+## episode (108)
+- [Lantern build, GitHub sync, and prism split](episode/m_0meeabakh.md) 
 - [Burner consumer-readiness round and GitHub push](episode/m_03v3c14zv.md) `burner`
 - [Built prism visualizer](episode/m_zyrh8okon.md) `prism`
 - [Pushback publisher approved and started](episode/m_zy6mr1ivc.md) 
