@@ -1,8 +1,9 @@
 # engram memory
 
-Generated 2026-10-08T18:25:18.375Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
+Generated 2026-10-08T18:35:23.485Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
 
 ## preference (110)
+- [Never apply to a company Jonathan has already applied to, even for a different role](preference/m_tg82m1ojc.md) 
 - [Never use em dashes (or spaced hyphens as dashes) in replies, in anything written on Jonathan's behalf, or in AI produc…](preference/m_tg7ir1gyx.md) 
 - [Application screening questions: always pick the most agreeable option; family/friend/government-relationship and prior…](preference/m_tfdwj4wmi.md) 
 - [Ashby forms - selections can look filled but not commit; Jonathan hit \"required\" prompts on Submit for fields already…](preference/m_tg7kx1p6h.md) 
@@ -12,7 +13,6 @@ Generated 2026-10-08T18:25:18.375Z from /Users/jonathankong/.engram/engram.db. R
 - [Before writing anything sent/shared/posted as Jonny (emails, apps, messages, docs, drafts), read ~/brain/me/voice.md an…](preference/m_tg8bl16u8.md) 
 - [Jonny's top priority for the brain system is how easily he sees updates; results must show up in the pushes he already…](preference/m_tg8a11f59.md) 
 - [Which resume PDFs to upload on applications (changed 2026-10-06) and the current Abridge title](preference/m_tg86fxc3n.md) 
-- [Never apply to a company Jonathan has already applied to, even for a different role](preference/m_tg82m1ojc.md) 
 - [Never send emails or LinkedIn messages on Jonathan's behalf; draft only, he sends](preference/m_tg7zz1qbu.md) 
 - [Never schedule Jonathan's work/OA/study blocks in the morning; afternoon (12pm+) or later only](preference/m_tg7zneh3e.md) 
 - [Jonny wants judgment, not literal over-application of each instruction; don't swing specs to extremes](preference/m_tg7y58j7d.md) 
