@@ -1,6 +1,6 @@
 # engram memory
 
-Generated 2026-10-08T01:28:31.414Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
+Generated 2026-10-08T01:38:32.526Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
 
 ## preference (38)
 - [Never use em dashes (or spaced hyphens as dashes) in replies, in anything written on Jonathan's behalf, or in AI produc…](preference/m_tg7ir1gyx.md) 
@@ -48,8 +48,11 @@ Generated 2026-10-08T01:28:31.414Z from /Users/jonathankong/.engram/engram.db. R
 - [Abridge Query Engine project](profile/m_tri9g1wwj.md) 
 - [Abridge Level of Service project](profile/m_tribg1luv.md) 
 
-## fact (36)
-- [~/dev/cue = Cue, improved Cluely rebuild (Electron overlay, me/them audio, memory, practice, calendar); 21 commits queu…](fact/m_u23d21hmj.md) 
+## fact (39)
+- [~/dev/loom model-agnostic agent harness (SDK + CLI/TUI + server) built on engram memory; local only, GitHub drip pendin…](fact/m_v4qflyfxq.md) 
+- [~/dev/engram universal agent memory (MCP + hooks + daemon), installed live 2026-10-07; what is wired, what is pending,…](fact/m_v4q6ytxnh.md) 
+- [~/dev/cue = Cue, improved Cluely rebuild (Electron overlay, me/them audio, memory, practice, calendar); drip publisher…](fact/m_u23d21hmj.md) 
+- [~/dev/blackbox local LLM/agent observability + eval tool (built 2026-10-07); 33 commits local, GitHub drip publisher st…](fact/m_v4pjb1xzv.md) 
 - [OnePay and Verse Medical status as of 2026-09-25](fact/m_tqq3w1ger.md) 
 - [jkong7/vigil — Go uptime monitor portfolio project built to close resume skill gaps; job-search tooling is off-limits a…](fact/m_tg8b41vax.md) 
 - [~/dev/verse-medical DME platform replica (private jkong7/verse-medical); built 2026-09-27, publishing via timed queue](fact/m_tg8arj375.md) 
