@@ -1,6 +1,6 @@
 # engram memory
 
-Generated 2026-10-08T00:48:18.983Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
+Generated 2026-10-08T00:48:19.278Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
 
 ## preference (21)
 - [Before writing anything sent/shared/posted as Jonny (emails, apps, messages, docs, drafts), read ~/brain/me/voice.md an…](preference/m_tg8bl16u8.md) 
