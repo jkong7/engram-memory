@@ -1,6 +1,6 @@
 # engram memory
 
-Generated 2026-10-08T15:33:51.304Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
+Generated 2026-10-08T15:43:56.400Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
 
 ## preference (109)
 - [Never use em dashes (or spaced hyphens as dashes) in replies, in anything written on Jonathan's behalf, or in AI produc…](preference/m_tg7ir1gyx.md) 
@@ -384,7 +384,7 @@ Generated 2026-10-08T15:33:51.304Z from /Users/jonathankong/.engram/engram.db. R
 - [Verse interview practice setup](reference/m_wf4ow4tzf.md) 
 
 ## episode (110)
-- [Burner Jonny account playthrough](episode/m_6lm1u1c8y.md) `burner`
+- [Burner playthrough handoff to dev-d5](episode/m_6lm1u1c8y.md) `burner`
 - [ENVR_POL 354 catch-up and graduation term](episode/m_1rnilwfi1.md) 
 - [Lantern build, GitHub sync, and prism split](episode/m_0meeabakh.md) 
 - [Burner consumer-readiness round and GitHub push](episode/m_03v3c14zv.md) `burner`
