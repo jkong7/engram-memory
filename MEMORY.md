@@ -1,8 +1,8 @@
 # engram memory
 
-Generated 2026-10-09T20:00:38.626Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
+Generated 2026-10-09T20:10:43.635Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
 
-## preference (116)
+## preference (119)
 - [Never use em dashes (or spaced hyphens as dashes) in replies, in anything written on Jonathan's behalf, or in AI produc…](preference/m_tg7ir1gyx.md) 
 - [Never apply to a company Jonathan has already applied to, even for a different role](preference/m_tg82m1ojc.md) 
 - [Application screening questions: always pick the most agreeable option; family/friend/government-relationship and prior…](preference/m_tfdwj4wmi.md) 
@@ -38,6 +38,7 @@ Generated 2026-10-09T20:00:38.626Z from /Users/jonathankong/.engram/engram.db. R
 - [Chicago outreach email template](preference/m_tqpx81ef6.md) 
 - [Agents do not create accounts or enter passwords on third-party services](preference/m_tor2q1vpf.md) 
 - [Outreach messages lead with the Abridge hook and cite specific work after research](preference/m_toqzi17zu.md) 
+- [Free-response questions outside the answer bank](preference/m_e9l8sqggk.md) 
 - [Job search geography](preference/m_xn3n71idb.md) 
 - [Verify, close and sync after batches](preference/m_xn3lpay7b.md) 
 - [Burner consumer-readiness work and Gemini credit budget](preference/m_03usx1uti.md) `burner`
@@ -67,6 +68,7 @@ Generated 2026-10-09T20:00:38.626Z from /Users/jonathankong/.engram/engram.db. R
 - [Jonathan completes assessments himself](preference/m_tri7r1oz2.md) 
 - [Build outreach drafts by hand in Gmail Compose](preference/m_tqpyf11ep.md) 
 - [Commit code in small chunks](preference/m_tpmuxi8wz.md) 
+- [Why-company answers: short, personable, no numbers](preference/m_e9l6t13iw.md) 
 - [Concise explanations](preference/m_b19vtpb1y.md) 
 - [Footwear variety list for Burner photos](preference/m_y7v5sks0n.md) `burner`
 - [Deep market research before building](preference/m_y77pqa9f6.md) 
@@ -101,6 +103,7 @@ Generated 2026-10-09T20:00:38.626Z from /Users/jonathankong/.engram/engram.db. R
 - [Visible state for caffeinate toggle](preference/m_vzjpq1khm.md) 
 - [New GitHub repos should be private](preference/m_tuj6riif0.md) 
 - [Finish evidence gathering before drafting deliverables](preference/m_tp4961wv0.md) 
+- [Culling application lists](preference/m_e9le41c37.md) 
 - [Verify document edits before reporting them](preference/m_027jilw4i.md) 
 - [Prefer same-day postings](preference/m_xn3oo188g.md) 
 - [Playthroughs on Jonny's own account](preference/m_6llymajqj.md) `burner`
@@ -314,9 +317,10 @@ Generated 2026-10-09T20:00:38.626Z from /Users/jonathankong/.engram/engram.db. R
 - [Verse Medical dev database seed scale](fact/m_tu68ee859.md) 
 - [Jonathan's Sleeper league settings](fact/m_tteeq1ghm.md) 
 
-## procedure (33)
+## procedure (34)
 - [Verifying Greenhouse and Ashby form answers register before Submit](procedure/m_wgurm13k5.md) 
 - [Rolling back Chartside Cloud Run to the previous revision](procedure/m_wel0ga1uq.md) `chartside`
+- [Filling Workday application forms](procedure/m_e9lc6xx1d.md) 
 - [Generating Burner character photos with Nano Banana](procedure/m_y6jeh1lw1.md) `burner`
 - [Workday application form gotchas (Chrome automation)](procedure/m_y1nd91ddc.md) 
 - [Filling Workday application forms in Chrome](procedure/m_xzv1x138k.md) 
@@ -397,7 +401,8 @@ Generated 2026-10-09T20:00:38.626Z from /Users/jonathankong/.engram/engram.db. R
 - [blackbox private repo and publisher log](reference/m_y3hujxakm.md) 
 - [Verse interview practice setup](reference/m_wf4ow4tzf.md) 
 
-## episode (117)
+## episode (118)
+- [Job application run 2026-10-09](episode/m_e9lgmklxb.md) `jobsearch`
 - [ENVR_POL 354 midterm and final on Google Calendar](episode/m_cb4r11co9.md) 
 - [AI stocks market survey and AI stack primer](episode/m_zmd3e1kyr.md) 
 - [ENVR_POL 354 Week 3 write-up check](episode/m_027mi1k1v.md) 
