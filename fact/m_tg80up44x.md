@@ -8,7 +8,7 @@ importance: 6
 trust: "agent"
 status: "active"
 created: "2026-10-08T00:46:35.903Z"
-updated: "2026-10-08T04:45:35.967Z"
+updated: "2026-10-09T18:47:13.188Z"
 source: "claude-code"
 ---
 
@@ -30,3 +30,5 @@ Open items as of 2026-09-21:
 Correction 2026-10-02 (Canvas + @u Gmail sweep): Canvas shows the second course as ENVR_POL 354-0 / ANTHRO 390-0 "Intro to Cultural Resource Management and Environmental Policy" (Dr. Eli Suzukovich III, MW 3:30-4:50, Fisk 114), not ENVR_POL 390 with Glasson. PRDV 325 is not in Canvas, but Dean Holtgreive treated him as enrolled on 9/24 and 9/28, so actual registration is unverified (check CAESAR). The 9/21 UEO email proposed PSYCH 313 to Theme and PRDV 325 as 3rd CS Advanced Elective; UEO has not replied, and NO follow-up draft exists in @u Gmail (earlier note saying a draft was saved is wrong). Open: NU-SHIP waive status, $500 bill due 10/1, MAS grad application by 10/8, TGS Future Plans form by 10/29. All in Todoist School.
 
 Update 2026-10-07 (Jonny in chat): MAS graduation term is now Fall 2026 in CAESAR, switched by the school. The Winter 2027 self-serve application is moot; Todoist task closed. MAS grad-term item resolved.
+
+Update 2026-10-09 (MAS dashboard): Theme form APPROVED 10/9 (PSYCH 313 in Theme). Audit shows every category full, 48.02 of 48.0 units with Fall courses (PSYCH 313 + ENVR_POL 354) counted as in progress, credits remaining -0.02, grad term 2026 Fall. Only thing left is passing both Fall courses (0.02 unit cushion).
