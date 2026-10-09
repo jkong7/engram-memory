@@ -1,6 +1,6 @@
 # engram memory
 
-Generated 2026-10-09T19:00:07.973Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
+Generated 2026-10-09T19:10:13.088Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
 
 ## preference (116)
 - [Never use em dashes (or spaced hyphens as dashes) in replies, in anything written on Jonathan's behalf, or in AI produc…](preference/m_tg7ir1gyx.md) 
@@ -397,7 +397,8 @@ Generated 2026-10-09T19:00:07.973Z from /Users/jonathankong/.engram/engram.db. R
 - [blackbox private repo and publisher log](reference/m_y3hujxakm.md) 
 - [Verse interview practice setup](reference/m_wf4ow4tzf.md) 
 
-## episode (116)
+## episode (117)
+- [ENVR_POL 354 midterm and final on Google Calendar](episode/m_cb4r11co9.md) 
 - [AI stocks market survey and AI stack primer](episode/m_zmd3e1kyr.md) 
 - [ENVR_POL 354 Week 3 write-up check](episode/m_027mi1k1v.md) 
 - [Persona onboarding launch and invoice](episode/m_zrogfqbe5.md) 
