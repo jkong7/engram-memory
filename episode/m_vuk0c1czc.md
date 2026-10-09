@@ -2,16 +2,16 @@
 id: "m_vuk0c1czc"
 kind: "episode"
 scope: "global"
-title: "Burner billing restored and cost research"
+title: "Burner current-state walkthrough"
 tags: ["claude-code"]
 importance: 3
 trust: "extracted"
 status: "active"
 created: "2026-10-08T18:41:29.925Z"
-updated: "2026-10-08T18:41:29.925Z"
+updated: "2026-10-09T22:58:48.794Z"
 source: "claude-code claude-code:e93bf3b6-8bdc-49bd-822e-3c5c15b165e2"
 ---
 
-# Burner billing restored and cost research
+# Burner current-state walkthrough
 
-Jonny asked whether :3007 would show new content after the free GCP trial ran out. The assistant explained that billing is now enabled on persona-onboarding-jk, so Burner's AI events resume and bill his card, and it gave him the billing console link. Jonny then asked for deep research into how top AI companion apps lower LLM costs. Five parallel researchers produced a report saved to ~/dev/reports and ~/brain/research, finding that images are about 96% of Burner's spend and that most images render in the background whether anyone sees them.
+On 2026-10-09 Jonny asked how Burner works now, since it has a lot of state, before deciding what to build next. The first architecture overview was too dense, so he asked for a simpler breakdown. The assistant re-explained it as three parts: a save file, a timed to-do list that drives events, and AI models that write text and make photos. No code or config was changed.

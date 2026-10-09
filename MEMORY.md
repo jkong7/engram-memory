@@ -1,8 +1,8 @@
 # engram memory
 
-Generated 2026-10-09T22:51:55.788Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
+Generated 2026-10-09T23:02:00.939Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
 
-## preference (119)
+## preference (120)
 - [Never use em dashes (or spaced hyphens as dashes) in replies, in anything written on Jonathan's behalf, or in AI produc…](preference/m_tg7ir1gyx.md) 
 - [Never apply to a company Jonathan has already applied to, even for a different role](preference/m_tg82m1ojc.md) 
 - [Application screening questions: always pick the most agreeable option; family/friend/government-relationship and prior…](preference/m_tfdwj4wmi.md) 
@@ -68,6 +68,7 @@ Generated 2026-10-09T22:51:55.788Z from /Users/jonathankong/.engram/engram.db. R
 - [Jonathan completes assessments himself](preference/m_tri7r1oz2.md) 
 - [Build outreach drafts by hand in Gmail Compose](preference/m_tqpyf11ep.md) 
 - [Commit code in small chunks](preference/m_tpmuxi8wz.md) 
+- [Explain systems simply](preference/m_khb9z1wip.md) 
 - [Why-company answers: short, personable, no numbers](preference/m_e9l6t13iw.md) 
 - [Concise explanations](preference/m_b19vtpb1y.md) 
 - [Footwear variety list for Burner photos](preference/m_y7v5sks0n.md) `burner`
@@ -402,13 +403,13 @@ Generated 2026-10-09T22:51:55.788Z from /Users/jonathankong/.engram/engram.db. R
 - [Verse interview practice setup](reference/m_wf4ow4tzf.md) 
 
 ## episode (118)
+- [Burner current-state walkthrough](episode/m_vuk0c1czc.md) 
 - [AI stock research: neoclouds, AI stack, IREN and APLD](episode/m_zmd3e1kyr.md) 
 - [Job application run 2026-10-09](episode/m_e9lgmklxb.md) `jobsearch`
 - [ENVR_POL 354 midterm and final on Google Calendar](episode/m_cb4r11co9.md) 
 - [ENVR_POL 354 Week 3 write-up check](episode/m_027mi1k1v.md) 
 - [Persona onboarding launch and invoice](episode/m_zrogfqbe5.md) 
 - [Apply run and batches on 2026-10-08](episode/m_xn3uw10h7.md) `jobsearch`
-- [Burner billing restored and cost research](episode/m_vuk0c1czc.md) 
 - [Burner retention builds and GCP billing](episode/m_qpxb0bioq.md) `burner`
 - [Burner playthrough handoff to dev-d5](episode/m_6lm1u1c8y.md) `burner`
 - [ENVR_POL 354 catch-up and graduation term](episode/m_1rnilwfi1.md) 
