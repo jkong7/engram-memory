@@ -1,6 +1,6 @@
 # engram memory
 
-Generated 2026-10-09T20:10:43.635Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
+Generated 2026-10-09T20:20:48.709Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
 
 ## preference (119)
 - [Never use em dashes (or spaced hyphens as dashes) in replies, in anything written on Jonathan's behalf, or in AI produc…](preference/m_tg7ir1gyx.md) 
@@ -402,9 +402,9 @@ Generated 2026-10-09T20:10:43.635Z from /Users/jonathankong/.engram/engram.db. R
 - [Verse interview practice setup](reference/m_wf4ow4tzf.md) 
 
 ## episode (118)
+- [AI stock research: neoclouds, AI stack, IREN and APLD](episode/m_zmd3e1kyr.md) 
 - [Job application run 2026-10-09](episode/m_e9lgmklxb.md) `jobsearch`
 - [ENVR_POL 354 midterm and final on Google Calendar](episode/m_cb4r11co9.md) 
-- [AI stocks market survey and AI stack primer](episode/m_zmd3e1kyr.md) 
 - [ENVR_POL 354 Week 3 write-up check](episode/m_027mi1k1v.md) 
 - [Persona onboarding launch and invoice](episode/m_zrogfqbe5.md) 
 - [Apply run and batches on 2026-10-08](episode/m_xn3uw10h7.md) `jobsearch`
