@@ -1,8 +1,8 @@
 # engram memory
 
-Generated 2026-10-09T18:29:52.599Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
+Generated 2026-10-09T18:39:57.749Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
 
-## preference (115)
+## preference (116)
 - [Never use em dashes (or spaced hyphens as dashes) in replies, in anything written on Jonathan's behalf, or in AI produc…](preference/m_tg7ir1gyx.md) 
 - [Never apply to a company Jonathan has already applied to, even for a different role](preference/m_tg82m1ojc.md) 
 - [Application screening questions: always pick the most agreeable option; family/friend/government-relationship and prior…](preference/m_tfdwj4wmi.md) 
@@ -67,6 +67,7 @@ Generated 2026-10-09T18:29:52.599Z from /Users/jonathankong/.engram/engram.db. R
 - [Jonathan completes assessments himself](preference/m_tri7r1oz2.md) 
 - [Build outreach drafts by hand in Gmail Compose](preference/m_tqpyf11ep.md) 
 - [Commit code in small chunks](preference/m_tpmuxi8wz.md) 
+- [Concise explanations](preference/m_b19vtpb1y.md) 
 - [Footwear variety list for Burner photos](preference/m_y7v5sks0n.md) `burner`
 - [Deep market research before building](preference/m_y77pqa9f6.md) 
 - [Explanations for AI internals: concise and simple](preference/m_y56207dhk.md) 
@@ -397,9 +398,9 @@ Generated 2026-10-09T18:29:52.599Z from /Users/jonathankong/.engram/engram.db. R
 - [Verse interview practice setup](reference/m_wf4ow4tzf.md) 
 
 ## episode (116)
-- [ENVR_POL 354 catch-up and Week 3 write-up review](episode/m_027mi1k1v.md) 
+- [AI stocks market survey and AI stack primer](episode/m_zmd3e1kyr.md) 
+- [ENVR_POL 354 Week 3 write-up check](episode/m_027mi1k1v.md) 
 - [Persona onboarding launch and invoice](episode/m_zrogfqbe5.md) 
-- [AI stocks market research](episode/m_zmd3e1kyr.md) 
 - [Apply run and batches on 2026-10-08](episode/m_xn3uw10h7.md) `jobsearch`
 - [Burner billing restored and cost research](episode/m_vuk0c1czc.md) 
 - [Burner retention builds and GCP billing](episode/m_qpxb0bioq.md) `burner`
