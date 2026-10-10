@@ -1,8 +1,8 @@
 # engram memory
 
-Generated 2026-10-10T22:17:41.675Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
+Generated 2026-10-10T22:27:46.799Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
 
-## preference (125)
+## preference (127)
 - [Never use em dashes (or spaced hyphens as dashes) in replies, in anything written on Jonathan's behalf, or in AI produc…](preference/m_tg7ir1gyx.md) 
 - [Never apply to a company Jonathan has already applied to, even for a different role](preference/m_tg82m1ojc.md) 
 - [Application screening questions: always pick the most agreeable option; family/friend/government-relationship and prior…](preference/m_tfdwj4wmi.md) 
@@ -38,6 +38,7 @@ Generated 2026-10-10T22:17:41.675Z from /Users/jonathankong/.engram/engram.db. R
 - [Chicago outreach email template](preference/m_tqpx81ef6.md) 
 - [Agents do not create accounts or enter passwords on third-party services](preference/m_tor2q1vpf.md) 
 - [Outreach messages lead with the Abridge hook and cite specific work after research](preference/m_toqzi17zu.md) 
+- [Jonny wants concise, explicit answers](preference/m_yqqln16rb.md) 
 - [Avoid legally heavy ventures](preference/m_y4ijq14ap.md) 
 - [Free-response questions outside the answer bank](preference/m_e9l8sqggk.md) 
 - [Job search geography](preference/m_xn3n71idb.md) 
@@ -69,6 +70,7 @@ Generated 2026-10-10T22:17:41.675Z from /Users/jonathankong/.engram/engram.db. R
 - [Jonathan completes assessments himself](preference/m_tri7r1oz2.md) 
 - [Build outreach drafts by hand in Gmail Compose](preference/m_tqpyf11ep.md) 
 - [Commit code in small chunks](preference/m_tpmuxi8wz.md) 
+- [Cost drives the Burner model search](preference/m_yqqk7laa4.md) 
 - [Deep research on open questions](preference/m_wctvpxlzv.md) 
 - [Research before committing to a product idea](preference/m_w15a543cv.md) 
 - [Explain systems simply](preference/m_khb9z1wip.md) 
@@ -140,6 +142,43 @@ Generated 2026-10-10T22:17:41.675Z from /Users/jonathankong/.engram/engram.db. R
 - [Abridge Level of Service project](profile/m_tribg1luv.md) 
 - [Learning agent architecture from first principles](profile/m_y563fad7h.md) 
 
+## procedure (35)
+- [Serve Ollama on the spare Mac over Tailscale only](procedure/m_yqqdcej08.md) 
+- [Verifying Greenhouse and Ashby form answers register before Submit](procedure/m_wgurm13k5.md) 
+- [Rolling back Chartside Cloud Run to the previous revision](procedure/m_wel0ga1uq.md) `chartside`
+- [Filling Workday application forms](procedure/m_e9lc6xx1d.md) 
+- [Generating Burner character photos with Nano Banana](procedure/m_y6jeh1lw1.md) `burner`
+- [Workday application form gotchas (Chrome automation)](procedure/m_y1nd91ddc.md) 
+- [Filling Workday application forms in Chrome](procedure/m_xzv1x138k.md) 
+- [ATS form gotchas: Paylocity, SmartRecruiters, Breezy, Ashby, Greenhouse](procedure/m_xyocu1dba.md) 
+- [Give zsh Full Disk Access for iCloud sync jobs](procedure/m_wjvv12mom.md) 
+- [Filling job application forms in Chrome background tabs](procedure/m_wfp5ji58o.md) 
+- [Chartside GCP permission grant script](procedure/m_wel3rlqq3.md) `chartside`
+- [Filling job application forms in Chrome](procedure/m_wdeyn1g29.md) 
+- [Filling custom dropdowns on application forms in Chrome](procedure/m_w5yp1cc4d.md) 
+- [Approving engram hooks in Codex](procedure/m_vyzydmfmh.md) 
+- [Queue timed commits for the Verse publisher](procedure/m_tu6b7tzvj.md) 
+- [Reading and moving Apple Notes with AppleScript](procedure/m_trtiqk6x0.md) 
+- [Collecting Instagram Reels data from the logged-in Chrome session](procedure/m_tp45ua67a.md) 
+- [Filling Greenhouse and Ashby application forms in Chrome (dropdowns and warm-up)](procedure/m_toqx2x76k.md) 
+- [Fixing Workday resume autofill work history](procedure/m_xn3r61i22.md) 
+- [Split a commit-heavy repo into per-component commits without touching the working tree](procedure/m_0meapn1nx.md) 
+- [Starting blackbox so prism shows run history](procedure/m_zyrdk10ik.md) 
+- [SQLite FTS5 ingest: key rows by rowid, not span_id](procedure/m_y3hpm11sy.md) `blackbox`
+- [Zsh git refspec gotcha](procedure/m_y2ch51j7g.md) 
+- [Filling job application forms in Chrome: dropdowns, uploads, autocomplete](procedure/m_xz5gi183x.md) 
+- [Test the capture-to-PR chain by hand](procedure/m_wmqf0b4eq.md) 
+- [Resume upload on SmartRecruiters forms](procedure/m_wm1p8lq5j.md) 
+- [Launching parallel builder agents in worktrees](procedure/m_wel8kze8d.md) 
+- [Making a new Raycast app appear in Raycast](procedure/m_vzjx01qv0.md) 
+- [Restarting the engram daemon](procedure/m_vz034hvit.md) 
+- [Reconnecting Claude in Chrome for browser application runs](procedure/m_tsbsa1j7k.md) 
+- [Driving Raycast UI from scripts](procedure/m_wjvwoe5wi.md) 
+- [Remove Claude co-author trailers from repo history](procedure/m_w3wgc1n6k.md) 
+- [Bulk unsubscribe via Gmail Manage subscriptions](procedure/m_w2dlm14cq.md) 
+- [Build LaTeX resume with Tectonic](procedure/m_w03e11fqf.md) `resume`
+- [Gitignore Go binary names without hiding cmd dirs](procedure/m_tpn1tqy1y.md) 
+
 ## decision (37)
 - [Builder limited to lab repo](decision/m_wibs811vt.md) 
 - [Chartside stripped to core slice](decision/m_wg1ex16q7.md) `chartside`
@@ -179,8 +218,9 @@ Generated 2026-10-10T22:17:41.675Z from /Users/jonathankong/.engram/engram.db. R
 - [Resume built locally with Tectonic](decision/m_vxkqz1dtu.md) 
 - [Jonny asked for Apple Notes to be organized into folders](decision/m_trtk61c5a.md) 
 
-## fact (145)
+## fact (148)
 - [ENVR_POL 390 cancelled by school](fact/m_wav3vruj1.md) 
+- [~/dev/verdict fragrance shelf verdict app (working name), Swift package + iOS app target, local only, state as of 2026-…](fact/m_ylpeu1plo.md) 
 - [Jonathan's Northwestern (McCormick BSCS) plan — finish BS Fall 2026 part-time, not enrolled winter/spring, walk June 20…](fact/m_tg80up44x.md) 
 - [~/dev/burner, Burner simulated-phone AI dating/life app; goal is a Status AI rival; private GitHub jkong7/burner (pushe…](fact/m_tg7mh4769.md) 
 - [~/dev/prism live visualizer for loom + engram + blackbox runs (launchd com.prism.server on 127.0.0.1:7360), built 2026-…](fact/m_zufnk13oz.md) 
@@ -226,6 +266,7 @@ Generated 2026-10-10T22:17:41.675Z from /Users/jonathankong/.engram/engram.db. R
 - [How Jonathan's Claude Code cloud sessions get context (claude-kit synced plugin, repo CLAUDE.md/skills, Research env) a…](fact/m_tg7owirfp.md) 
 - [~/dev/chartside — ambient AI clinical scribe (Next 16), private jkong7/chartside; main fully pushed 2026-09-28; branch…](fact/m_tg7ne1sm9.md) 
 - [Where the job-search pipeline, writing rules, tracker and ground-truth profile live](fact/m_tg7ig11ze.md) 
+- [qwen3.5:9b thinks by default](fact/m_yqqfuoroc.md) 
 - [Spare 16GB MacBook](fact/m_wctrh1uuh.md) 
 - [ENVR_POL 354 enrollment and grading](fact/m_1rneu14fs.md) 
 - [Burner web push notifications](fact/m_03uw9dd5k.md) `burner`
@@ -271,6 +312,7 @@ Generated 2026-10-10T22:17:41.675Z from /Users/jonathankong/.engram/engram.db. R
 - [Persona (yourpersona.com) is distinct from earlier Persona application](fact/m_triej88rq.md) 
 - [Unposted faceless doom videos F1-F5 in ~/dev/doom-videos](fact/m_tq1eu3q6e.md) 
 - [Northwestern school email is used for recruiter and cold outreach](fact/m_tor17o9lx.md) 
+- [qwen3.5:9b falls short on Burner's dense prompt](fact/m_yqqia1my7.md) 
 - [ENVR_POL 354 Week 3 write-up due 2026-10-15](fact/m_027f9ln1s.md) 
 - [Anthropic credit top-up for Persona](fact/m_zroc51ns7.md) 
 - [Burner What they remember sheet](fact/m_03uy08fkk.md) `burner`
@@ -326,43 +368,8 @@ Generated 2026-10-10T22:17:41.675Z from /Users/jonathankong/.engram/engram.db. R
 - [Verse Medical dev database seed scale](fact/m_tu68ee859.md) 
 - [Jonathan's Sleeper league settings](fact/m_tteeq1ghm.md) 
 
-## procedure (34)
-- [Verifying Greenhouse and Ashby form answers register before Submit](procedure/m_wgurm13k5.md) 
-- [Rolling back Chartside Cloud Run to the previous revision](procedure/m_wel0ga1uq.md) `chartside`
-- [Filling Workday application forms](procedure/m_e9lc6xx1d.md) 
-- [Generating Burner character photos with Nano Banana](procedure/m_y6jeh1lw1.md) `burner`
-- [Workday application form gotchas (Chrome automation)](procedure/m_y1nd91ddc.md) 
-- [Filling Workday application forms in Chrome](procedure/m_xzv1x138k.md) 
-- [ATS form gotchas: Paylocity, SmartRecruiters, Breezy, Ashby, Greenhouse](procedure/m_xyocu1dba.md) 
-- [Give zsh Full Disk Access for iCloud sync jobs](procedure/m_wjvv12mom.md) 
-- [Filling job application forms in Chrome background tabs](procedure/m_wfp5ji58o.md) 
-- [Chartside GCP permission grant script](procedure/m_wel3rlqq3.md) `chartside`
-- [Filling job application forms in Chrome](procedure/m_wdeyn1g29.md) 
-- [Filling custom dropdowns on application forms in Chrome](procedure/m_w5yp1cc4d.md) 
-- [Approving engram hooks in Codex](procedure/m_vyzydmfmh.md) 
-- [Queue timed commits for the Verse publisher](procedure/m_tu6b7tzvj.md) 
-- [Reading and moving Apple Notes with AppleScript](procedure/m_trtiqk6x0.md) 
-- [Collecting Instagram Reels data from the logged-in Chrome session](procedure/m_tp45ua67a.md) 
-- [Filling Greenhouse and Ashby application forms in Chrome (dropdowns and warm-up)](procedure/m_toqx2x76k.md) 
-- [Fixing Workday resume autofill work history](procedure/m_xn3r61i22.md) 
-- [Split a commit-heavy repo into per-component commits without touching the working tree](procedure/m_0meapn1nx.md) 
-- [Starting blackbox so prism shows run history](procedure/m_zyrdk10ik.md) 
-- [SQLite FTS5 ingest: key rows by rowid, not span_id](procedure/m_y3hpm11sy.md) `blackbox`
-- [Zsh git refspec gotcha](procedure/m_y2ch51j7g.md) 
-- [Filling job application forms in Chrome: dropdowns, uploads, autocomplete](procedure/m_xz5gi183x.md) 
-- [Test the capture-to-PR chain by hand](procedure/m_wmqf0b4eq.md) 
-- [Resume upload on SmartRecruiters forms](procedure/m_wm1p8lq5j.md) 
-- [Launching parallel builder agents in worktrees](procedure/m_wel8kze8d.md) 
-- [Making a new Raycast app appear in Raycast](procedure/m_vzjx01qv0.md) 
-- [Restarting the engram daemon](procedure/m_vz034hvit.md) 
-- [Reconnecting Claude in Chrome for browser application runs](procedure/m_tsbsa1j7k.md) 
-- [Driving Raycast UI from scripts](procedure/m_wjvwoe5wi.md) 
-- [Remove Claude co-author trailers from repo history](procedure/m_w3wgc1n6k.md) 
-- [Bulk unsubscribe via Gmail Manage subscriptions](procedure/m_w2dlm14cq.md) 
-- [Build LaTeX resume with Tectonic](procedure/m_w03e11fqf.md) `resume`
-- [Gitignore Go binary names without hiding cmd dirs](procedure/m_tpn1tqy1y.md) 
-
-## reference (47)
+## reference (48)
+- [Spare Mac Ollama endpoint](reference/m_yqq7g1uue.md) 
 - [Application Ledger and master board](reference/m_w4r3x9jkt.md) 
 - [Application Ledger](reference/m_w39idc72j.md) 
 - [YouTube virality research page (claude.ai artifact)](reference/m_tq1gy10ln.md) 
@@ -412,8 +419,8 @@ Generated 2026-10-10T22:17:41.675Z from /Users/jonathankong/.engram/engram.db. R
 - [Verse interview practice setup](reference/m_wf4ow4tzf.md) 
 
 ## episode (120)
+- [Local Ollama server on the spare Mac](episode/m_wcu13tubf.md) 
 - [Next venture search and fragrance test](episode/m_y4iqqi2hi.md) 
-- [Local model setup on spare MacBook](episode/m_wcu13tubf.md) 
 - [Burner architecture walkthrough](episode/m_vuk0c1czc.md) 
 - [AI stock research: neoclouds, AI stack, IREN and APLD](episode/m_zmd3e1kyr.md) 
 - [Job application run 2026-10-09](episode/m_e9lgmklxb.md) `jobsearch`
