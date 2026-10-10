@@ -1,8 +1,8 @@
 # engram memory
 
-Generated 2026-10-10T00:09:16.264Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
+Generated 2026-10-10T00:19:16.754Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
 
-## preference (120)
+## preference (121)
 - [Never use em dashes (or spaced hyphens as dashes) in replies, in anything written on Jonathan's behalf, or in AI produc…](preference/m_tg7ir1gyx.md) 
 - [Never apply to a company Jonathan has already applied to, even for a different role](preference/m_tg82m1ojc.md) 
 - [Application screening questions: always pick the most agreeable option; family/friend/government-relationship and prior…](preference/m_tfdwj4wmi.md) 
@@ -104,6 +104,7 @@ Generated 2026-10-10T00:09:16.264Z from /Users/jonathankong/.engram/engram.db. R
 - [Visible state for caffeinate toggle](preference/m_vzjpq1khm.md) 
 - [New GitHub repos should be private](preference/m_tuj6riif0.md) 
 - [Finish evidence gathering before drafting deliverables](preference/m_tp4961wv0.md) 
+- [Simple architecture explanations first](preference/m_n06cpxza5.md) 
 - [Culling application lists](preference/m_e9le41c37.md) 
 - [Verify document edits before reporting them](preference/m_027jilw4i.md) 
 - [Prefer same-day postings](preference/m_xn3oo188g.md) 
@@ -403,7 +404,7 @@ Generated 2026-10-10T00:09:16.264Z from /Users/jonathankong/.engram/engram.db. R
 - [Verse interview practice setup](reference/m_wf4ow4tzf.md) 
 
 ## episode (118)
-- [Burner current-state walkthrough](episode/m_vuk0c1czc.md) 
+- [Burner architecture walkthrough](episode/m_vuk0c1czc.md) 
 - [AI stock research: neoclouds, AI stack, IREN and APLD](episode/m_zmd3e1kyr.md) 
 - [Job application run 2026-10-09](episode/m_e9lgmklxb.md) `jobsearch`
 - [ENVR_POL 354 midterm and final on Google Calendar](episode/m_cb4r11co9.md) 
