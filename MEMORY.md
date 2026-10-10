@@ -1,6 +1,6 @@
 # engram memory
 
-Generated 2026-10-10T06:37:45.629Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
+Generated 2026-10-10T06:53:07.035Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
 
 ## preference (121)
 - [Never use em dashes (or spaced hyphens as dashes) in replies, in anything written on Jonathan's behalf, or in AI produc…](preference/m_tg7ir1gyx.md) 
