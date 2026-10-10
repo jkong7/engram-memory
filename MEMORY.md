@@ -1,8 +1,8 @@
 # engram memory
 
-Generated 2026-10-10T21:17:11.020Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
+Generated 2026-10-10T21:27:16.113Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
 
-## preference (122)
+## preference (124)
 - [Never use em dashes (or spaced hyphens as dashes) in replies, in anything written on Jonathan's behalf, or in AI produc…](preference/m_tg7ir1gyx.md) 
 - [Never apply to a company Jonathan has already applied to, even for a different role](preference/m_tg82m1ojc.md) 
 - [Application screening questions: always pick the most agreeable option; family/friend/government-relationship and prior…](preference/m_tfdwj4wmi.md) 
@@ -68,6 +68,7 @@ Generated 2026-10-10T21:17:11.020Z from /Users/jonathankong/.engram/engram.db. R
 - [Jonathan completes assessments himself](preference/m_tri7r1oz2.md) 
 - [Build outreach drafts by hand in Gmail Compose](preference/m_tqpyf11ep.md) 
 - [Commit code in small chunks](preference/m_tpmuxi8wz.md) 
+- [Deep research on open questions](preference/m_wctvpxlzv.md) 
 - [Research before committing to a product idea](preference/m_w15a543cv.md) 
 - [Explain systems simply](preference/m_khb9z1wip.md) 
 - [Why-company answers: short, personable, no numbers](preference/m_e9l6t13iw.md) 
@@ -105,6 +106,7 @@ Generated 2026-10-10T21:17:11.020Z from /Users/jonathankong/.engram/engram.db. R
 - [Visible state for caffeinate toggle](preference/m_vzjpq1khm.md) 
 - [New GitHub repos should be private](preference/m_tuj6riif0.md) 
 - [Finish evidence gathering before drafting deliverables](preference/m_tp4961wv0.md) 
+- [Concise explicit setup instructions](preference/m_wctx69jom.md) 
 - [Simple architecture explanations first](preference/m_n06cpxza5.md) 
 - [Culling application lists](preference/m_e9le41c37.md) 
 - [Verify document edits before reporting them](preference/m_027jilw4i.md) 
@@ -137,7 +139,7 @@ Generated 2026-10-10T21:17:11.020Z from /Users/jonathankong/.engram/engram.db. R
 - [Abridge Level of Service project](profile/m_tribg1luv.md) 
 - [Learning agent architecture from first principles](profile/m_y563fad7h.md) 
 
-## decision (36)
+## decision (37)
 - [Builder limited to lab repo](decision/m_wibs811vt.md) 
 - [Chartside stripped to core slice](decision/m_wg1ex16q7.md) `chartside`
 - [Two resume tracks by graduation path](decision/m_vxktc1in1.md) 
@@ -156,6 +158,7 @@ Generated 2026-10-10T21:17:11.020Z from /Users/jonathankong/.engram/engram.db. R
 - [Queue ranks big-name employer programs higher](decision/m_w5yt816mo.md) `jobsearch`
 - [Graduate in Fall, walk in June 2027](decision/m_w1omdfmvu.md) 
 - [Chose sidebet, cooked and Campus Markets to build](decision/m_tpmywxndo.md) 
+- [Spare Mac as Ollama server](decision/m_wcttxwtxz.md) 
 - [Publish loom to private GitHub with drip pushes](decision/m_y41o6j4sg.md) `loom`
 - [Blocklisted companies from the 2026-10-07 apply run](decision/m_y1nfw1la7.md) 
 - [Remove skipped and bad-fit rows from ledger](decision/m_xyo791qtm.md) `jobsearch`
@@ -175,7 +178,7 @@ Generated 2026-10-10T21:17:11.020Z from /Users/jonathankong/.engram/engram.db. R
 - [Resume built locally with Tectonic](decision/m_vxkqz1dtu.md) 
 - [Jonny asked for Apple Notes to be organized into folders](decision/m_trtk61c5a.md) 
 
-## fact (144)
+## fact (145)
 - [ENVR_POL 390 cancelled by school](fact/m_wav3vruj1.md) 
 - [Jonathan's Northwestern (McCormick BSCS) plan — finish BS Fall 2026 part-time, not enrolled winter/spring, walk June 20…](fact/m_tg80up44x.md) 
 - [~/dev/burner, Burner simulated-phone AI dating/life app; goal is a Status AI rival; private GitHub jkong7/burner (pushe…](fact/m_tg7mh4769.md) 
@@ -222,6 +225,7 @@ Generated 2026-10-10T21:17:11.020Z from /Users/jonathankong/.engram/engram.db. R
 - [How Jonathan's Claude Code cloud sessions get context (claude-kit synced plugin, repo CLAUDE.md/skills, Research env) a…](fact/m_tg7owirfp.md) 
 - [~/dev/chartside — ambient AI clinical scribe (Next 16), private jkong7/chartside; main fully pushed 2026-09-28; branch…](fact/m_tg7ne1sm9.md) 
 - [Where the job-search pipeline, writing rules, tracker and ground-truth profile live](fact/m_tg7ig11ze.md) 
+- [Spare 16GB MacBook](fact/m_wctrh1uuh.md) 
 - [ENVR_POL 354 enrollment and grading](fact/m_1rneu14fs.md) 
 - [Burner web push notifications](fact/m_03uw9dd5k.md) `burner`
 - [Burner multi-user mode](fact/m_03uugnys3.md) `burner`
@@ -405,7 +409,8 @@ Generated 2026-10-10T21:17:11.020Z from /Users/jonathankong/.engram/engram.db. R
 - [blackbox private repo and publisher log](reference/m_y3hujxakm.md) 
 - [Verse interview practice setup](reference/m_wf4ow4tzf.md) 
 
-## episode (118)
+## episode (119)
+- [Local model setup on spare MacBook](episode/m_wcu13tubf.md) 
 - [Burner architecture walkthrough](episode/m_vuk0c1czc.md) 
 - [AI stock research: neoclouds, AI stack, IREN and APLD](episode/m_zmd3e1kyr.md) 
 - [Job application run 2026-10-09](episode/m_e9lgmklxb.md) `jobsearch`
