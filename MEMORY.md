@@ -1,8 +1,8 @@
 # engram memory
 
-Generated 2026-10-10T21:07:09.171Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
+Generated 2026-10-10T21:17:11.020Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
 
-## preference (121)
+## preference (122)
 - [Never use em dashes (or spaced hyphens as dashes) in replies, in anything written on Jonathan's behalf, or in AI produc…](preference/m_tg7ir1gyx.md) 
 - [Never apply to a company Jonathan has already applied to, even for a different role](preference/m_tg82m1ojc.md) 
 - [Application screening questions: always pick the most agreeable option; family/friend/government-relationship and prior…](preference/m_tfdwj4wmi.md) 
@@ -68,6 +68,7 @@ Generated 2026-10-10T21:07:09.171Z from /Users/jonathankong/.engram/engram.db. R
 - [Jonathan completes assessments himself](preference/m_tri7r1oz2.md) 
 - [Build outreach drafts by hand in Gmail Compose](preference/m_tqpyf11ep.md) 
 - [Commit code in small chunks](preference/m_tpmuxi8wz.md) 
+- [Research before committing to a product idea](preference/m_w15a543cv.md) 
 - [Explain systems simply](preference/m_khb9z1wip.md) 
 - [Why-company answers: short, personable, no numbers](preference/m_e9l6t13iw.md) 
 - [Concise explanations](preference/m_b19vtpb1y.md) 
@@ -174,7 +175,7 @@ Generated 2026-10-10T21:07:09.171Z from /Users/jonathankong/.engram/engram.db. R
 - [Resume built locally with Tectonic](decision/m_vxkqz1dtu.md) 
 - [Jonny asked for Apple Notes to be organized into folders](decision/m_trtk61c5a.md) 
 
-## fact (143)
+## fact (144)
 - [ENVR_POL 390 cancelled by school](fact/m_wav3vruj1.md) 
 - [Jonathan's Northwestern (McCormick BSCS) plan — finish BS Fall 2026 part-time, not enrolled winter/spring, walk June 20…](fact/m_tg80up44x.md) 
 - [~/dev/burner, Burner simulated-phone AI dating/life app; goal is a Status AI rival; private GitHub jkong7/burner (pushe…](fact/m_tg7mh4769.md) 
@@ -305,6 +306,7 @@ Generated 2026-10-10T21:07:09.171Z from /Users/jonathankong/.engram/engram.db. R
 - [Apple Notes folder layout after 2026-09-26 reorganization](fact/m_trtmj12t1.md) 
 - [reels-research project outputs and purpose](fact/m_tp4b1p5al.md) 
 - [LinkedIn Premium renewal around 2026-10-21](fact/m_tor4o18by.md) 
+- [Consumer research app idea was Jonny's own](fact/m_w15fxyf98.md) 
 - [lantern Claude Code visualizer](fact/m_y77uq21yy.md) 
 - [Burner dev server lifecycle](fact/m_y6jggpitk.md) `burner`
 - [tiny-harness learning project](fact/m_y56541nsw.md) 
