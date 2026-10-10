@@ -8,7 +8,7 @@ importance: 6
 trust: "agent"
 status: "active"
 created: "2026-10-10T22:21:54.172Z"
-updated: "2026-10-10T22:21:54.172Z"
+updated: "2026-10-10T22:51:52.510Z"
 source: "claude-code"
 ---
 
@@ -25,5 +25,7 @@ Layout: Swift package with VerdictCore (scoring, daily pick, blind-buy, roast, s
 - Seed catalog (56 bottles) holds Claude-written accord estimates as a dev fixture, not licensed data. Fragella terms section 3.3 bars caching large portions without plan permission; licensing email was drafted, not sent.
 - Added 10/10: blind test mode (judge ranks lettered strips, agreement % card), crowding penalty, buy-next picks, FragellaSource live catalog client (reads FRAGELLA_KEY or VERDICT_CATALOG_URL env; never run against the real API, no key yet). `swift run verdict-mac --demo` opens the app as a Mac window. After changing VerdictCore types, `rm -rf .build` if tests segfault (stale incremental build).
 - Jonny declined to email Fragella (10/10). His 16 bottles come from fragrantica.com/@jkong "Perfumes I Have".
+- Web version added 10/10: `swift build -c release --product verdict-server && .build/release/verdict-server` serves Web/ + JSON API on http://localhost:7420 (Mac only, uses Network framework and SwiftUI card rendering). Test it with Playwright (own browser). Never screen-capture or script Jonny's desktop to test the Mac window. Blind tests append to data/blind_tests.jsonl. Paywall is a demo unlock, no billing.
+- Known scoring flaw: a 6-bottle shelf can score 95 A+ and beat a 16-bottle shelf; small shelves score too easily.
 - Not built yet: camera/OCR scan, Cloud Run proxy (Claude roast + recognition), paywall (isUnlocked is a debug toggle), WeatherKit, onboarding quiz, friend head-to-head.
 - Bottle ranking uses averaged (Shapley-style) contributions instead of the spec's plain leave-one-out, because leave-one-out gave zeros and negatives on duplicate-heavy shelves.
