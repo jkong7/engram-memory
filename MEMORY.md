@@ -1,6 +1,6 @@
 # engram memory
 
-Generated 2026-10-10T23:08:07.330Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
+Generated 2026-10-10T23:18:12.483Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
 
 ## preference (130)
 - [Never use em dashes (or spaced hyphens as dashes) in replies, in anything written on Jonathan's behalf, or in AI produc…](preference/m_tg7ir1gyx.md) 
@@ -441,8 +441,8 @@ Generated 2026-10-10T23:08:07.330Z from /Users/jonathankong/.engram/engram.db. R
 - [Verse interview practice setup](reference/m_wf4ow4tzf.md) 
 
 ## episode (121)
+- [Burner replies blocked by daily allowance](episode/m_qpxb0bioq.md) `burner`
 - [Verdict build session](episode/m_zuuyt1lpk.md) 
-- [Burner moves to production baseline](episode/m_qpxb0bioq.md) `burner`
 - [Local Ollama server on the spare Mac](episode/m_wcu13tubf.md) 
 - [Next venture search and fragrance test](episode/m_y4iqqi2hi.md) 
 - [Burner architecture walkthrough](episode/m_vuk0c1czc.md) 
