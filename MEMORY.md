@@ -1,8 +1,8 @@
 # engram memory
 
-Generated 2026-10-10T22:07:36.524Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
+Generated 2026-10-10T22:17:41.675Z from /Users/jonathankong/.engram/engram.db. Read-only mirror; edit with the engram CLI or web UI.
 
-## preference (124)
+## preference (125)
 - [Never use em dashes (or spaced hyphens as dashes) in replies, in anything written on Jonathan's behalf, or in AI produc…](preference/m_tg7ir1gyx.md) 
 - [Never apply to a company Jonathan has already applied to, even for a different role](preference/m_tg82m1ojc.md) 
 - [Application screening questions: always pick the most agreeable option; family/friend/government-relationship and prior…](preference/m_tfdwj4wmi.md) 
@@ -38,6 +38,7 @@ Generated 2026-10-10T22:07:36.524Z from /Users/jonathankong/.engram/engram.db. R
 - [Chicago outreach email template](preference/m_tqpx81ef6.md) 
 - [Agents do not create accounts or enter passwords on third-party services](preference/m_tor2q1vpf.md) 
 - [Outreach messages lead with the Abridge hook and cite specific work after research](preference/m_toqzi17zu.md) 
+- [Avoid legally heavy ventures](preference/m_y4ijq14ap.md) 
 - [Free-response questions outside the answer bank](preference/m_e9l8sqggk.md) 
 - [Job search geography](preference/m_xn3n71idb.md) 
 - [Verify, close and sync after batches](preference/m_xn3lpay7b.md) 
@@ -361,7 +362,7 @@ Generated 2026-10-10T22:07:36.524Z from /Users/jonathankong/.engram/engram.db. R
 - [Build LaTeX resume with Tectonic](procedure/m_w03e11fqf.md) `resume`
 - [Gitignore Go binary names without hiding cmd dirs](procedure/m_tpn1tqy1y.md) 
 
-## reference (46)
+## reference (47)
 - [Application Ledger and master board](reference/m_w4r3x9jkt.md) 
 - [Application Ledger](reference/m_w39idc72j.md) 
 - [YouTube virality research page (claude.ai artifact)](reference/m_tq1gy10ln.md) 
@@ -384,6 +385,7 @@ Generated 2026-10-10T22:07:36.524Z from /Users/jonathankong/.engram/engram.db. R
 - [Chartside full project history file](reference/m_tt677k465.md) `chartside`
 - [Job application ledger artifact and total counter](reference/m_tqq1y44ne.md) 
 - [vigil local workbench dashboard](reference/m_tpn0g1mw3.md) 
+- [Venture research reports](reference/m_y4inqe8fb.md) 
 - [ENVR_POL 354 Week 3 write-up Google Doc](reference/m_027i52jmr.md) 
 - [GCP billing console for persona-onboarding-jk](reference/m_vujwj10zm.md) 
 - [AI companion inference cost report](reference/m_vuju2i7sg.md) 
@@ -409,7 +411,8 @@ Generated 2026-10-10T22:07:36.524Z from /Users/jonathankong/.engram/engram.db. R
 - [blackbox private repo and publisher log](reference/m_y3hujxakm.md) 
 - [Verse interview practice setup](reference/m_wf4ow4tzf.md) 
 
-## episode (119)
+## episode (120)
+- [Next venture search and fragrance test](episode/m_y4iqqi2hi.md) 
 - [Local model setup on spare MacBook](episode/m_wcu13tubf.md) 
 - [Burner architecture walkthrough](episode/m_vuk0c1czc.md) 
 - [AI stock research: neoclouds, AI stack, IREN and APLD](episode/m_zmd3e1kyr.md) 
